@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0ca7aa16c3b721b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "QxQ Lecture Notes/Images/Screenshot_20231113_001424.png"
+              }
+            }
           }
         ]
       }
@@ -148,14 +158,16 @@
   },
   "active": "72f1acac2e35d56f",
   "lastOpenFiles": [
-    "Screenshot_20231113_001424.png",
+    "QxQ Lecture Notes/Images/Screenshot_20231113_001424.png",
+    "Images/Screenshot_20231113_001424.png.md",
+    "Image/Screenshot_20231105_232124.png.md",
+    "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
+    "Images",
     "QxQ Lecture Notes/L4 - Phase and Amplitude.md",
     "QxQ Lecture Notes/L6 - Bases with respect to Quantum Gates and Quantum Circuits.md",
-    "Image/Screenshot_20231105_232124.png.md",
     "Image",
     "QxQ Lecture Notes/L2 - Quantum Stack.md",
     "QxQ Lecture Notes/L1 - Classical Computing.md",
-    "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
     "QxQ Lecture Notes/README.md",
     "README.md",
     "QxQ Lecture Notes/Images/Screenshot_20231105_231909.png",
@@ -171,7 +183,6 @@
     "QxQ Lecture Notes/Images/Screenshot_20231022_223230.png",
     "QxQ Lecture Notes/Images/Screenshot_20231022_223230 1.png",
     "QxQ Lecture Notes/Images/Screenshot_20231015_230155.png",
-    "QxQ Lecture Notes/Images/Screenshot_20231015_224249.png",
     "QxQ Lecture Notes/Images",
     "QxQ Lecture Notes"
   ]

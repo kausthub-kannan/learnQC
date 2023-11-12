@@ -1,7 +1,7 @@
 Most algorithms use Multi Qubit Circuits
 
 ### CNOT Gate:
-![[Screenshot_20231113_001424.png]]
+![cnot-gate](./Images/Screenshot_20231113_001424.png)
 
 The target Qubit depends upon the state of the Control Qubit
 **Rules:**

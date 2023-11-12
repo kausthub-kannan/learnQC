@@ -9,4 +9,4 @@ The target Qubit depends upon the state of the Control Qubit
 3. If control is 1, X Gate is applied to target qubit. 
 
 #### Creating Entanglement: 
-![[Screenshot_20231113_002435.png]]
+![](../Images/Screenshot_20231113_002435.png)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/README.md",
+                "file": "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/README.md",
+                "file": "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/README.md",
+                "file": "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/README.md"
+                "file": "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "72f1acac2e35d56f",
   "lastOpenFiles": [
-    "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
     "QxQ Lecture Notes/README.md",
+    "README.md",
+    "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
     "QxQ Lecture Notes/Image Dump/Screenshot_20231105_231909.png",
     "QxQ Lecture Notes/Untitled",
     "QxQ Lecture Notes/L7 - Multi Qubit Circuit.md",

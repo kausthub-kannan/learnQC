@@ -10,7 +10,7 @@ Quantum Computers use *phase difference* $\phi$ and the amplitude of solutions. 
 
 ![gaming-example](./Images/Screenshot_20231022_223230.png)
 
-![[Screenshot_20231022_223501.png]]
+![](Screenshot_20231022_223501.png)
 
 ![[Screenshot_20231022_224259.png]]
 ![[Screenshot_20231022_224259 1.png]]![[Screenshot_20231022_224259 2.png]]

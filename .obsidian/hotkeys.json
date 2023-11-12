@@ -4,15 +4,16 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "C"
+      "key": "W"
     }
   ],
+  "workspace:close": [],
   "obsidian-git:push2": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "V"
+      "key": "E"
     }
   ],
   "obsidian-git:pull": [
@@ -20,7 +21,8 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "X"
+      "key": "Q"
     }
-  ]
+  ],
+  "markdown:toggle-preview": []
 }

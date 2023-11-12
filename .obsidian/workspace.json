@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/L6 - Bases with respect to Quantum Gates and Quantum Circuits.md",
+                "file": "QxQ Lecture Notes/L4 - Phase and Amplitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/L6 - Bases with respect to Quantum Gates and Quantum Circuits.md",
+                "file": "QxQ Lecture Notes/L4 - Phase and Amplitude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/L6 - Bases with respect to Quantum Gates and Quantum Circuits.md",
+                "file": "QxQ Lecture Notes/L4 - Phase and Amplitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/L6 - Bases with respect to Quantum Gates and Quantum Circuits.md"
+                "file": "QxQ Lecture Notes/L4 - Phase and Amplitude.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "72f1acac2e35d56f",
   "lastOpenFiles": [
+    "QxQ Lecture Notes/L6 - Bases with respect to Quantum Gates and Quantum Circuits.md",
     "Image/Screenshot_20231105_232124.png.md",
     "Image",
     "QxQ Lecture Notes/L4 - Phase and Amplitude.md",
-    "QxQ Lecture Notes/L6 - Bases with respect to Quantum Gates and Quantum Circuits.md",
     "QxQ Lecture Notes/L2 - Quantum Stack.md",
     "QxQ Lecture Notes/L1 - Classical Computing.md",
     "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",

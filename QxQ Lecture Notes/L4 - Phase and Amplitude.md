@@ -8,7 +8,7 @@ Wave functions describe state of a Quantum Object. It is technically given as
 
 Quantum Computers use *phase difference* $\phi$ and the amplitude of solutions. This makes the required solution to be constructively interfered and destructively interfere with others. 
 
-![[Screenshot_20231022_223230.png]]
+![gaming-example](./Images/Screenshot_20231022_223230.png)
 
 ![[Screenshot_20231022_223501.png]]
 

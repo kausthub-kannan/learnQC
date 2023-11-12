@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1ef92d7904b71f4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ea8e919307bc0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72f1acac2e35d56f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QxQ Lecture Notes/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16dee738d8508681",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cdda81d2d88dc18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b5cd3945009e86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c46f8be61903484",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75464ae9e1db3171",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adbe4ffd25d0c2b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d701245321e0f10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8cc015028abe41d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QxQ Lecture Notes/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03994f254a660f5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QxQ Lecture Notes/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd96445a48702bd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bbea7693ed691841",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QxQ Lecture Notes/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "72f1acac2e35d56f",
+  "lastOpenFiles": [
+    "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
+    "QxQ Lecture Notes/README.md",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231105_231909.png",
+    "QxQ Lecture Notes/Untitled",
+    "QxQ Lecture Notes/L7 - Multi Qubit Circuit.md",
+    "lol.md",
+    "QxQ Lecture Notes/L6 - Bases with respect to Quantum Gates and Quantum Circuits.md",
+    "QxQ Lecture Notes/L4 - Phase and Amplitude.md",
+    "QxQ Lecture Notes/L3 - Quantum Mechanics.md",
+    "QxQ Lecture Notes/L2 - Quantum Stack.md",
+    "QxQ Lecture Notes/L1 - Classical Computing.md",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231022_231410.png",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231022_224259.png",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231022_224259 2.png",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231022_224259 1.png",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231022_223501.png",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231022_223230.png",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231022_223230 1.png",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231015_230155.png",
+    "QxQ Lecture Notes/Image Dump/Screenshot_20231015_224249.png",
+    "QxQ Lecture Notes/Image Dump",
+    "QxQ Lecture Notes"
+  ]
+}

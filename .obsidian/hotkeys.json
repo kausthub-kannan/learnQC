@@ -1,0 +1,26 @@
+{
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ]
+}

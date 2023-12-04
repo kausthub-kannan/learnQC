@@ -33,6 +33,27 @@ Entanglement attack can extract information from Z Basis without being detected.
 **X Basis:**
 If transmitter has applied X Basis to the bits and sends them. If the Eave dropper entangles the circuits, he is fundamentally changing the circuit. This means that the measurement of entangled version of circuit may be different from the measurement done to a non-entangled version. So the receiver and eave dropper gets incorrect information as the receiver cannot undo the H gate applied by transmitter.
 
+## Code Snippets (Cirq):
+
+### Creating entanglement
+```python
+qubits = [cirq.NamedQubit("q0"), cirq.NamedQubit("q1")]
+circuit = cirq.Circuit()
+
+circuit.append(cirq.H(qubits[0]))
+circuit.append(cirq.CNOT(qubits[0], qubits[1])) #control, target
+circuit.append(cirq.X(qubits[1]))
+circuit.append(cirq.measure(qubits))
+
+# state_vector = cirq.final_state_vector(circuit)
+simulator = cirq.Simulator()
+result = sim.run(circuit, repetaions=1000)
+
+historgram = cirq.plot_state_histogram(result, plt.subplot())
+plt.show()
+```
+
+
 
 
 

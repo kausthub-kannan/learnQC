@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
+                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
+                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
+                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/L10 - Hacking in Quantum.md"
+                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md"
               }
             }
           }
@@ -183,11 +183,13 @@
   },
   "active": "963c6c979c8d2557",
   "lastOpenFiles": [
-    "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
     "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
+    "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
     "QxQ Lecture Notes/L8 - Multi Qubit Circuits.md",
-    "README.md",
     "QxQ Lecture Notes/L5 - Phase and Amplitude.md",
+    "QxQ Lecture Notes/L2 - Quantum Stack.md",
+    "QxQ Lecture Notes/L1 - Classical Computing.md",
+    "README.md",
     "QxQ Lecture Notes/L6 - Representing Qubits.md",
     "QxQ Lecture Notes/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",
     "QxQ Lecture Notes/L4 - Quantum Mechanics.md",
@@ -197,8 +199,6 @@
     "Image/Screenshot_20231105_232124.png.md",
     "Images",
     "Image",
-    "QxQ Lecture Notes/L2 - Quantum Stack.md",
-    "QxQ Lecture Notes/L1 - Classical Computing.md",
     "QxQ Lecture Notes/README.md",
     "QxQ Lecture Notes/Images/Screenshot_20231105_231909.png",
     "QxQ Lecture Notes/Untitled",

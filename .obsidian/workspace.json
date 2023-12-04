@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/L8 - Multi Qubit Circuits.md",
+                "file": "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
+                "file": "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
+                "file": "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
+                "file": "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md"
+                "file": "QxQ Lecture Notes/L10 - Hacking in Quantum.md"
               }
             }
           }
@@ -181,15 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e8e618c30a44a2c",
+  "active": "963c6c979c8d2557",
   "lastOpenFiles": [
-    "README.md",
     "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
+    "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
     "QxQ Lecture Notes/L8 - Multi Qubit Circuits.md",
+    "README.md",
     "QxQ Lecture Notes/L5 - Phase and Amplitude.md",
     "QxQ Lecture Notes/L6 - Representing Qubits.md",
     "QxQ Lecture Notes/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",
-    "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
     "QxQ Lecture Notes/L4 - Quantum Mechanics.md",
     "QxQ Lecture Notes/Images/Screenshot_20231113_002435.png",
     "QxQ Lecture Notes/Images/Screenshot_20231113_001424.png",

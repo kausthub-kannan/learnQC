@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
+                "file": "QxQ Lecture Notes/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "963c6c979c8d2557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QxQ Lecture Notes/L8 - Multi Qubit Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e8e618c30a44a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
+                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
+                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md"
+                "file": "QxQ Lecture Notes/L9 - Quantum Key Distribution.md"
               }
             }
           }
@@ -156,26 +181,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12b5cd3945009e86",
+  "active": "0e8e618c30a44a2c",
   "lastOpenFiles": [
+    "README.md",
+    "QxQ Lecture Notes/L9 - Quantum Key Distribution.md",
+    "QxQ Lecture Notes/L8 - Multi Qubit Circuits.md",
+    "QxQ Lecture Notes/L5 - Phase and Amplitude.md",
+    "QxQ Lecture Notes/L6 - Representing Qubits.md",
+    "QxQ Lecture Notes/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",
+    "QxQ Lecture Notes/L10 - Hacking in Quantum.md",
+    "QxQ Lecture Notes/L4 - Quantum Mechanics.md",
     "QxQ Lecture Notes/Images/Screenshot_20231113_002435.png",
     "QxQ Lecture Notes/Images/Screenshot_20231113_001424.png",
     "Images/Screenshot_20231113_001424.png.md",
     "Image/Screenshot_20231105_232124.png.md",
-    "QxQ Lecture Notes/L7 - Multi Qubit Circuits.md",
     "Images",
-    "QxQ Lecture Notes/L4 - Phase and Amplitude.md",
-    "QxQ Lecture Notes/L6 - Bases with respect to Quantum Gates and Quantum Circuits.md",
     "Image",
     "QxQ Lecture Notes/L2 - Quantum Stack.md",
     "QxQ Lecture Notes/L1 - Classical Computing.md",
     "QxQ Lecture Notes/README.md",
-    "README.md",
     "QxQ Lecture Notes/Images/Screenshot_20231105_231909.png",
     "QxQ Lecture Notes/Untitled",
     "QxQ Lecture Notes/L7 - Multi Qubit Circuit.md",
     "lol.md",
-    "QxQ Lecture Notes/L3 - Quantum Mechanics.md",
     "QxQ Lecture Notes/Images/Screenshot_20231022_231410.png",
     "QxQ Lecture Notes/Images/Screenshot_20231022_224259.png",
     "QxQ Lecture Notes/Images/Screenshot_20231022_224259 2.png",
@@ -183,7 +211,6 @@
     "QxQ Lecture Notes/Images/Screenshot_20231022_223501.png",
     "QxQ Lecture Notes/Images/Screenshot_20231022_223230.png",
     "QxQ Lecture Notes/Images/Screenshot_20231022_223230 1.png",
-    "QxQ Lecture Notes/Images/Screenshot_20231015_230155.png",
     "QxQ Lecture Notes/Images",
     "QxQ Lecture Notes"
   ]

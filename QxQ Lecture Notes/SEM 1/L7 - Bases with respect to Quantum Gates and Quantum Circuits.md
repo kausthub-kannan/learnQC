@@ -7,12 +7,12 @@ Generic representation considers z-axis to move upwards, x-axis to move towards 
 Quantum Gates rotate the Qubit represented in the Bloch sphere to rotate. 
 #### X Gate:
 Pauli's X gate rotates the Qubit by **108**$^0$. 
-![x-gate](./Images/Screenshot_20231105_231909.png)
+![x-gate](Screenshot_20231105_231909.png)
 
 **H Gate:**
 Hardamard's Gate brings a initialised Qubit to state of superposition.  This gate play a key role in Quantum Computing as it brings the Qubit from Z-bases (0 and 1) to X-bases (+ and -).
 
-![h-gate](./Images/Screenshot_20231105_232124.png)
+![h-gate](Screenshot_20231105_232124.png)
 
 #### Z Gate:
 Pauli's Z gate is used to rotate a Qubit in X-Bases by **180**$^0$. 

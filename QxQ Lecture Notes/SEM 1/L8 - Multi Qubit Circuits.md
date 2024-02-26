@@ -1,6 +1,6 @@
 Most algorithms use Multi Qubit Circuits
 ### CNOT Gate:
-![cnot-gate](./Images/Screenshot_20231113_001424.png)
+![cnot-gate](Screenshot_20231113_001424.png)
 
 The target Qubit depends upon the state of the Control Qubit
 **Rules:**
@@ -9,5 +9,5 @@ The target Qubit depends upon the state of the Control Qubit
 3. If control is 1, X Gate is applied to target qubit. 
 
 #### Creating Entanglement: 
-![basic-entanglement-gate](./Images/Screenshot_20231113_002435.png)
+![basic-entanglement-gate](Screenshot_20231113_002435.png)
 

@@ -17,7 +17,7 @@ Quantum Computers use *phase difference* $\phi$ and the amplitude of solutions. 
 ### Gaming Example:
 
 A superposition state of all possible state can be modified by interference (hence phase) to obtain desired combination or pattern.
-![gaming-example](./Images/Screenshot_20231022_223230.png)
+![gaming-example](Screenshot_20231022_223230.png)
 
 ### Superpostion of wavefunctions:
 ![](Screenshot_20231022_224259.png)

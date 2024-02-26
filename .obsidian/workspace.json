@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 1/L1 - Classical Computing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a08f62a3a048c651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L12 Note.md",
+                "file": "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L12 Note.md",
+                "file": "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L12 Note.md",
+                "file": "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L12 Note.md"
+                "file": "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md"
               }
             }
           }
@@ -193,23 +181,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a08f62a3a048c651",
+  "active": "963c6c979c8d2557",
   "lastOpenFiles": [
-    "Screenshot_20240226_190543.png",
+    "QxQ Lecture Notes/SEM 1/L10 - Hacking in Quantum.md",
+    "QxQ Lecture Notes/Images/Screenshot_20240226_171616.png",
+    "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
     "Screenshot_20240226_190450 1.png",
-    "Screenshot_20240226_190450.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240226_190543.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240226_190450.png",
     "QxQ Lecture Notes/SEM 1/L1 - Classical Computing.md",
     "QxQ Lecture Notes/SEM 1/L5 - Phase and Amplitude.md",
-    "QxQ Lecture Notes/SEM 1/L10 - Hacking in Quantum.md",
-    "QxQ Lecture Notes/SEM 2/L12 Note.md",
     "QxQ Lecture Notes/SEM 1/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",
-    "Screenshot_20240226_173152.png",
-    "Screenshot_20240226_172103.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240226_173152.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240226_172103.png",
     "QxQ Lecture Notes/SEM 1/L8 - Multi Qubit Circuits.md",
     "QxQ Lecture Notes/SEM 1/L9 - Quantum Key Distribution.md",
-    "Screenshot_20240226_171903.png",
-    "Screenshot_20240226_171816.png",
-    "Screenshot_20240226_171616.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240226_171903.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240226_171816.png",
     "README.md",
     "Untitled",
     "QxQ Lecture Notes/SEM 2",
@@ -224,7 +212,6 @@
     "Images",
     "Image",
     "QxQ Lecture Notes/README.md",
-    "QxQ Lecture Notes/Images/Screenshot_20231105_231909.png",
     "QxQ Lecture Notes/Untitled",
     "QxQ Lecture Notes/L7 - Multi Qubit Circuit.md",
     "lol.md",

@@ -32,6 +32,42 @@
             }
           },
           {
+            "id": "6918e952911fb875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QxQ Lecture Notes/SEM 2/L14 - Multi Qubit Math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac2e083f2a41115a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9aa5db9dca4b9d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QxQ Lecture Notes/SEM 2/L14 - Multi Qubit Math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e8e618c30a44a2c",
             "type": "leaf",
             "state": {
@@ -54,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
+                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
+                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md"
+                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md"
               }
             }
           }
@@ -181,23 +217,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "963c6c979c8d2557",
+  "active": "12b5cd3945009e86",
   "lastOpenFiles": [
+    "QxQ Lecture Notes/SEM 2/L14 - Multi Qubit Math.md",
+    "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
+    "Screenshot_20240227_003202.png",
+    "Screenshot_20240227_001614.png",
+    "Screenshot_20240227_000701.png",
+    "Screenshot_20240226_205641.png",
+    "QxQ Lecture Notes/SEM 2/L13 - Quantum Maths for Single Qubit.md",
+    "QxQ Lecture Notes/Images/Screenshot_20240226_205641.png",
+    "Screenshot_20240226_204003.png",
+    "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
     "QxQ Lecture Notes/SEM 1/L10 - Hacking in Quantum.md",
     "QxQ Lecture Notes/Images/Screenshot_20240226_171616.png",
-    "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
     "Screenshot_20240226_190450 1.png",
     "QxQ Lecture Notes/Images/Screenshot_20240226_190543.png",
     "QxQ Lecture Notes/Images/Screenshot_20240226_190450.png",
     "QxQ Lecture Notes/SEM 1/L1 - Classical Computing.md",
     "QxQ Lecture Notes/SEM 1/L5 - Phase and Amplitude.md",
     "QxQ Lecture Notes/SEM 1/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",
-    "QxQ Lecture Notes/Images/Screenshot_20240226_173152.png",
-    "QxQ Lecture Notes/Images/Screenshot_20240226_172103.png",
     "QxQ Lecture Notes/SEM 1/L8 - Multi Qubit Circuits.md",
     "QxQ Lecture Notes/SEM 1/L9 - Quantum Key Distribution.md",
-    "QxQ Lecture Notes/Images/Screenshot_20240226_171903.png",
-    "QxQ Lecture Notes/Images/Screenshot_20240226_171816.png",
     "README.md",
     "Untitled",
     "QxQ Lecture Notes/SEM 2",
@@ -205,8 +246,6 @@
     "QxQ Lecture Notes/SEM 1/L4 - Quantum Mechanics.md",
     "QxQ Lecture Notes/SEM 1/L2 - Quantum Stack.md",
     "QxQ Lecture Notes/L6 - Representing Qubits.md",
-    "QxQ Lecture Notes/Images/Screenshot_20231113_002435.png",
-    "QxQ Lecture Notes/Images/Screenshot_20231113_001424.png",
     "Images/Screenshot_20231113_001424.png.md",
     "Image/Screenshot_20231105_232124.png.md",
     "Images",

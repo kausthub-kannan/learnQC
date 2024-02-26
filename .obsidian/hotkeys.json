@@ -24,5 +24,13 @@
       "key": "Q"
     }
   ],
-  "markdown:toggle-preview": []
+  "markdown:toggle-preview": [],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ]
 }

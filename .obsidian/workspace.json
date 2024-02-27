@@ -68,30 +68,6 @@
             }
           },
           {
-            "id": "0e8e618c30a44a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51592887b84b0106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e0e82e5fd40d403d",
             "type": "leaf",
             "state": {
@@ -116,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
+                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
+                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md"
+                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md"
               }
             }
           }
@@ -243,8 +219,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51592887b84b0106",
+  "active": "e0e82e5fd40d403d",
   "lastOpenFiles": [
+    "QxQ Lecture Notes/SEM 2/L14 - Multi Qubit Math.md",
+    "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
     "QxQ Lecture Notes/Images/Screenshot_20240227_201208.png",
     "Screenshot_20240227_193723.png",
     "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
@@ -252,8 +230,6 @@
     "QxQ Lecture Notes/Images/Pasted image 20240227192123.png",
     "QxQ Lecture Notes/SEM 2/L16 - Grover's Algorithm.md",
     "QxQ Lecture Notes/SEM 2/L18 - Quantum Error Correction.md",
-    "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
-    "QxQ Lecture Notes/SEM 2/L14 - Multi Qubit Math.md",
     "QxQ Lecture Notes/SEM 2/L13 - Quantum Maths for Single Qubit.md",
     "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
     "QxQ Lecture Notes/Images/Screenshot_20240227_145226.png",

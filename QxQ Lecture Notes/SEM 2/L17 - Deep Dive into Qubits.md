@@ -67,8 +67,6 @@ Now we apply controlled swap gate which swaps *state 0* and *state 1*. After swa
 $$\frac{1}{2}[(\ket{0}\ket{state 0}\ket{state 1} + \ket{1}\ket{state 1}\ket{state 0}) \ + \   (\ket{0}\ket{state 1}\ket{state 0} + \ket{1}\ket{state 1}\ket{state 0})]$$
 Finally when we measure: $$\text{probability(ancilla=0)} = \frac{1}{2}(|\bra{state0}\ket{state1}|^2+1)$$
 in terms of fidelity: $$\text{probability(ancilla=0)} = \frac{1}{2}(\text{fidelity}+1)$$
-
-
 ## Code (Noise)
 
 1. **Depolarising Noise:**
@@ -121,5 +119,3 @@ result = simulator.run(circuit, repetitions=1000)
 prob_0 = np.sum(result.measurements['anc']) / len(result.measurements['anc'])
 fidelity = 1 - 2*prob_0
 ```
-
-3. 

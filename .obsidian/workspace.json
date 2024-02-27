@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L16 - Grover's Algorithm.md",
+                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L16 - Grover's Algorithm.md",
+                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L16 - Grover's Algorithm.md",
+                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L16 - Grover's Algorithm.md"
+                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md"
               }
             }
           }
@@ -257,9 +257,12 @@
   },
   "active": "44c911265c8f4313",
   "lastOpenFiles": [
+    "Screenshot_20240227_193723 1.png",
+    "Screenshot_20240227_193723.png",
+    "QxQ Lecture Notes/Images/Pasted image 20240227192123.png",
+    "QxQ Lecture Notes/SEM 2/L16 - Grover's Algorithm.md",
     "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
     "QxQ Lecture Notes/SEM 2/L18 - Quantum Error Correction.md",
-    "QxQ Lecture Notes/SEM 2/L16 - Grover's Algorithm.md",
     "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
     "QxQ Lecture Notes/SEM 2/L14 - Multi Qubit Math.md",
     "QxQ Lecture Notes/SEM 2/L13 - Quantum Maths for Single Qubit.md",
@@ -273,8 +276,6 @@
     "QxQ Lecture Notes/SEM 1/L10 - Hacking in Quantum.md",
     "QxQ Lecture Notes/Images/Screenshot_20231113_001424.png",
     "QxQ Lecture Notes/Images/Screenshot_20240227_003202.png",
-    "QxQ Lecture Notes/Images/Screenshot_20240227_001614.png",
-    "QxQ Lecture Notes/Images/Screenshot_20240227_000701.png",
     "QxQ Lecture Notes/SEM 1/L1 - Classical Computing.md",
     "QxQ Lecture Notes/SEM 1/L5 - Phase and Amplitude.md",
     "QxQ Lecture Notes/SEM 1/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",

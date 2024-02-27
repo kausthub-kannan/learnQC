@@ -55,5 +55,57 @@ The Da Vincenzo's criteria for a good QC is:
 5. Efficiently measurable 
 
 ## Code (Noise)
+
+1. **Depolarising Noise:**
 ```python
+qubits = cirq.NamedQubit.range(2, prefix = 'q')
+circuit = cirq.Circuit()
+circuit.append(cirq.H(qubits[0]))
+circuit.append(cirq.CNOT(qubits[0], qubits[1]))
+circuit.append(cirq.measure(qubits))
+
+# Apply Noise
+noise = cirq.depolarize(0.05)
+simulator = cirq.Simulator()
+result = simulator.run(circuit.with_noise(noise), repetitions = 1000)
+
+hist = cirq.plot_state_histogram(result, plt.subplot(), title = '5% Depolarization', xlabel = 'States', ylabel = 'Occurrences', tick_label=binary_labels(2))
+plt.show()
 ```
+
+To the above code you would see the below results:
+![[Pasted image 20240227192123.png]]
+
+For a Bell State of $\frac{1}{\sqrt{2}} (\ket{00}+\ket{11})$ only $\ket{00}$ and $\ket{11}$ is expected. 
+
+2. **Swamp Test:**
+   ![[Screenshot_20240227_193723 1.png]]
+   Fidelity measures how close two quantum states are to each other and is given by: $$\text{fidelity}=|\bra{\uppsi}\ket{\phi}|^2$$
+   Swamp Test provides the fidelity.
+```python
+q0 = cirq.NamedQubit('state 0')
+q1 = cirq.NamedQubit('state 1')
+ancilla = cirq.NamedQubit('ancollia')
+
+circuit_0 = cirq.Circuit()
+circuit_0.append(cirq.I(q0))
+circuit_1 = cirq.Circuit()
+circuit_1.append(cirq.X(q1))
+circuit = circuit_0 + circuit_1
+
+#Swamp Test Cirquit
+circuit.append(cirq.H(ancilla))
+circuit.append(cirq.CSWAP(ancilla, q0, q1)
+circuit.append(cirq.H(ancilla))
+circuit.append(cirq.measure(ancilla))
+
+# Simulate the results
+simulator = cirq.Simulator()
+result = simulator.run(circuit, repetitions=1000)
+
+# Fidelity
+prob_0 = np.sum(result.measurements['anc']) / len(result.measurements['anc'])
+fidelity = 1 - 2*prob_0
+```
+
+3. 

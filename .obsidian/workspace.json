@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51592887b84b0106",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "QxQ Lecture Notes/Images/Screenshot_20240226_205641 1.png"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
+                "file": "QxQ Lecture Notes/Images/Screenshot_20240226_205641 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
+                "file": "QxQ Lecture Notes/Images/Screenshot_20240226_205641 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md"
+                "file": "QxQ Lecture Notes/Images/Screenshot_20240226_205641 1.png"
               }
             }
           }
@@ -207,23 +217,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e8e618c30a44a2c",
+  "active": "12b5cd3945009e86",
   "lastOpenFiles": [
-    "Pasted image 20240227143923.png",
-    "Pasted image 20240227143649.png",
+    "QxQ Lecture Notes/Images/Pasted image 20240227143923.png",
+    "QxQ Lecture Notes/Images/Pasted image 20240227143649.png",
     "Pasted image 20240227143325.png",
-    "Pasted image 20240227142653.png",
+    "QxQ Lecture Notes/Images/Pasted image 20240227142653.png",
+    "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
     "QxQ Lecture Notes/SEM 1/L10 - Hacking in Quantum.md",
     "QxQ Lecture Notes/Images/Screenshot_20231113_001424.png",
     "QxQ Lecture Notes/SEM 2/L14 - Multi Qubit Math.md",
-    "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
-    "Screenshot_20240227_003202.png",
-    "Screenshot_20240227_001614.png",
-    "Screenshot_20240227_000701.png",
-    "Screenshot_20240226_205641.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240227_003202.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240227_001614.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240227_000701.png",
+    "QxQ Lecture Notes/Images/Screenshot_20240226_205641 1.png",
     "QxQ Lecture Notes/SEM 2/L13 - Quantum Maths for Single Qubit.md",
     "QxQ Lecture Notes/Images/Screenshot_20240226_205641.png",
-    "Screenshot_20240226_204003.png",
     "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
     "QxQ Lecture Notes/SEM 1/L1 - Classical Computing.md",
     "QxQ Lecture Notes/SEM 1/L5 - Phase and Amplitude.md",

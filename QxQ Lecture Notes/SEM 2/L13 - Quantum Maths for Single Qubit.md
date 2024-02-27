@@ -20,6 +20,6 @@ Hence, Born's rule for bra-ket notations is give as follows: $$prob(\text{measur
 
 ## Gates as Matrices
 
-![[Screenshot_20240226_205641.png]]
+![[Screenshot_20240226_205641 1.png]]
 
 The transformation go quantum states using gates is given by: $$\text{Gate * State} = \text{New State}$$

@@ -73,24 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 1/L10 - Hacking in Quantum.md",
+                "file": "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0ca7aa16c3b721b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "QxQ Lecture Notes/Images/Screenshot_20231113_001424.png"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,8 +207,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12b5cd3945009e86",
+  "active": "0e8e618c30a44a2c",
   "lastOpenFiles": [
+    "Pasted image 20240227143923.png",
+    "Pasted image 20240227143649.png",
+    "Pasted image 20240227143325.png",
+    "Pasted image 20240227142653.png",
+    "QxQ Lecture Notes/SEM 1/L10 - Hacking in Quantum.md",
+    "QxQ Lecture Notes/Images/Screenshot_20231113_001424.png",
     "QxQ Lecture Notes/SEM 2/L14 - Multi Qubit Math.md",
     "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
     "Screenshot_20240227_003202.png",
@@ -229,11 +225,6 @@
     "QxQ Lecture Notes/Images/Screenshot_20240226_205641.png",
     "Screenshot_20240226_204003.png",
     "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
-    "QxQ Lecture Notes/SEM 1/L10 - Hacking in Quantum.md",
-    "QxQ Lecture Notes/Images/Screenshot_20240226_171616.png",
-    "Screenshot_20240226_190450 1.png",
-    "QxQ Lecture Notes/Images/Screenshot_20240226_190543.png",
-    "QxQ Lecture Notes/Images/Screenshot_20240226_190450.png",
     "QxQ Lecture Notes/SEM 1/L1 - Classical Computing.md",
     "QxQ Lecture Notes/SEM 1/L5 - Phase and Amplitude.md",
     "QxQ Lecture Notes/SEM 1/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",

@@ -91,9 +91,7 @@ To the above code you would see the below results:
 
 For a Bell State of $\frac{1}{\sqrt{2}} (\ket{00}+\ket{11})$ only $\ket{00}$ and $\ket{11}$ is expected. 
 
-2. **Swamp Test:**
-   
-   
+2. **Swamp Test:**  
 ```python
 q0 = cirq.NamedQubit('state 0')
 q1 = cirq.NamedQubit('state 1')

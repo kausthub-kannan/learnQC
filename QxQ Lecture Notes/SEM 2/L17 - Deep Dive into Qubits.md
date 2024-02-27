@@ -46,13 +46,28 @@ These factors are called as Noise and can lead to decoherence of qubits .i.e
 1. **Relaxation:** Switching from high level to low level state
 2. **Dephasing:** Loss of Phase information
 
-## Goof Quantum Computer
+## Good Quantum Computer
 The Da Vincenzo's criteria for a good QC is:
 1. Well characterised and scalable qubits
 2. Initialisation Qubits
 3. Long coherence items
 4. Universal set of gates
 5. Efficiently measurable 
+
+## Swamp test
+Fidelity measures how close two quantum states are to each other and is given by: $$\text{fidelity}=|\bra{\uppsi}\ket{\phi}|^2$$
+Swamp Test provides the fidelity. We can derive the equation from the below circuit for two bit.
+![[Screenshot_20240227_201208.png]]
+
+The circuit can be mathematically shown as:
+$$\ket{0}\ket{state 0}\ket{state 1}$$
+After applying H gate to ancilla qubit:
+$$\frac{1}{\sqrt{2}}(\ket{0}\ket{state 0}\ket{state 1} + \ket{1}\ket{state 0}\ket{state 1})$$
+Now we apply controlled swap gate which swaps *state 0* and *state 1*. After swap gate we also apply H gate : $$\frac{1}{2}[(\ket{0}\ket{state 0}\ket{state 1} + \ket{1}\ket{state 1}\ket{state 0}) \ + \   (\ket{0}\ket{state 1}\ket{state 0} + \ket{1}\ket{state 1}\ket{state 0})]$$
+$$\frac{1}{2}[(\ket{0}\ket{state 0}\ket{state 1} + \ket{1}\ket{state 1}\ket{state 0}) \ + \   (\ket{0}\ket{state 1}\ket{state 0} + \ket{1}\ket{state 1}\ket{state 0})]$$
+Finally when we measure: $$\text{probability(ancilla=0)} = \frac{1}{2}(|\bra{state0}\ket{state1}|^2+1)$$
+in terms of fidelity: $$\text{probability(ancilla=0)} = \frac{1}{2}(\text{fidelity}+1)$$
+
 
 ## Code (Noise)
 
@@ -79,9 +94,8 @@ To the above code you would see the below results:
 For a Bell State of $\frac{1}{\sqrt{2}} (\ket{00}+\ket{11})$ only $\ket{00}$ and $\ket{11}$ is expected. 
 
 2. **Swamp Test:**
-   ![[Screenshot_20240227_193723 1.png]]
-   Fidelity measures how close two quantum states are to each other and is given by: $$\text{fidelity}=|\bra{\uppsi}\ket{\phi}|^2$$
-   Swamp Test provides the fidelity.
+   
+   
 ```python
 q0 = cirq.NamedQubit('state 0')
 q1 = cirq.NamedQubit('state 1')

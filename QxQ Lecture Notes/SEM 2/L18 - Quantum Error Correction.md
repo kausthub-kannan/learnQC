@@ -25,4 +25,8 @@ Types of Errors:
    - To cause error, multiple bits have to be flipped.
    - More the repetition bits, more it is error tolerant.  
 
-### Implementing CRC
+### Code
+
+```python
+TO BE ADDED
+```

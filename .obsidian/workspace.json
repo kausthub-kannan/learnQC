@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
+                "file": "QxQ Lecture Notes/SEM 2/L18 - Quantum Error Correction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "723a63200d132362",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QxQ Lecture Notes/SEM 2/L19 - Near Term Algorithms (NISQ).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
+                "file": "QxQ Lecture Notes/SEM 2/L19 - Near Term Algorithms (NISQ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
+                "file": "QxQ Lecture Notes/SEM 2/L19 - Near Term Algorithms (NISQ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md"
+                "file": "QxQ Lecture Notes/SEM 2/L19 - Near Term Algorithms (NISQ).md"
               }
             }
           }
@@ -146,15 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35264b62aa72b2d2",
+  "active": "723a63200d132362",
   "lastOpenFiles": [
+    "Pasted image 20240303232817.png",
+    "Pasted image 20240303231711.png",
     "QxQ Lecture Notes/SEM 2/L18 - Quantum Error Correction.md",
+    "QxQ Lecture Notes/SEM 2/L19 - Near Term Algorithms (NISQ).md",
+    "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
     "QxQ Lecture Notes/SEM 1/L5 - Phase and Amplitude.md",
     "QxQ Lecture Notes/SEM 1/L4 - Quantum Mechanics.md",
     "QxQ Lecture Notes/SEM 1/L1 - Classical Computing.md",
     "QxQ Lecture Notes/SEM 2/L14 - Multi Qubit Math.md",
     "QxQ Lecture Notes/SEM 2/L15 - Complexity of Algorithms.md",
-    "QxQ Lecture Notes/SEM 2/L17 - Deep Dive into Qubits.md",
     "QxQ Lecture Notes/SEM 2/L12 - Multi Qubits and Quantum Teleportation.md",
     "QxQ Lecture Notes/Images/Screenshot_20240227_201208.png",
     "Screenshot_20240227_193723.png",
@@ -167,7 +183,6 @@
     "QxQ Lecture Notes/Images/Pasted image 20240227143923.png",
     "QxQ Lecture Notes/Images/Pasted image 20240227143649.png",
     "Pasted image 20240227143325.png",
-    "QxQ Lecture Notes/Images/Pasted image 20240227142653.png",
     "QxQ Lecture Notes/SEM 1/L10 - Hacking in Quantum.md",
     "QxQ Lecture Notes/SEM 1/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",
     "QxQ Lecture Notes/SEM 1/L8 - Multi Qubit Circuits.md",

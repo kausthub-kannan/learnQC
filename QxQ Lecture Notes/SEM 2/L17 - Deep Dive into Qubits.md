@@ -5,10 +5,10 @@ There are different types of Qubits which vary in:
 - Use Case
 
 ### Photonic Qubits
-- Photonic Qubits utilise light particles, specifically photons, as the fundamental units of quantum information. 
+- Photonic Qubits utilize light particles, specifically photons, as the fundamental units of quantum information. 
 - They are manipulated by optical elements, such as prisms and silicon photonic chips, with beam-splitters and mirrors serving as quantum gates. 
-- Photonic Quantum Computing (PQC) allows for the encoding of quantum information in various ways, including through the polarisation of photons or their paths of travel. 
-- This technology is advantageous for its resilience to certain types of noise sources and the ability to travel long distances along existing fibre optic cables, supporting the idea of a quantum internet. 
+- Photonic Quantum Computing (PQC) allows for the encoding of quantum information in various ways, including through the polarization of photons or their paths of travel. 
+- This technology is advantageous for its resilience to certain types of noise sources and the ability to travel long distances along existing fiber optic cables, supporting the idea of a quantum internet. 
 - However, it faces challenges like the need for quantum error correction and the requirement for cryogenic equipment for certain components.
 
 ### Super Conducting Qubits

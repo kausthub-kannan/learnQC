@@ -37,4 +37,8 @@ Such problem solving approach can be used for real-world problems such as:
 1. Activating a electron which requires energy similar to the knapsack problem.
 2. Given set of Amino acids in a protein, arrangement minimal energy.
 3. Route Optimization 
-   
+
+## Current Stand of NISQ
+1. **Variational Quantum Eigensolver (VQE):** This algorithm tackles problems in quantum chemistry. It helps find the lowest possible energy state (ground state) of a molecule or other quantum system.
+2. **Quantum Approximate Optimization Algorithm (QAOA):** This one focuses on solving complex optimization problems. It helps find the "best" solution when dealing with many different options, like finding the most efficient route for deliveries.
+3. **Quantum Support Vector Machine (QSVM):** This algorithm applies the power of quantum computing to machine learning tasks. Specifically, it aims to improve the performance of classifying data, such as identifying spam emails or recognizing objects in images.

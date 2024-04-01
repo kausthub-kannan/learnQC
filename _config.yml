@@ -25,6 +25,8 @@ domain: kausthub-kannan.github.io
 baseurl: https://kausthub-kannan.github.io/quantum-computing-notes/
 url: quantum-computing-notes
 github_username: kausthub-kannan
+favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/learnQC.png"
 
 # Build settings
 theme: just-the-docs

@@ -148,6 +148,11 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "assests/images/favicon.ico",
+    "assests/images/learnQC.png.crdownload",
+    "assests/images/learnQC.png",
+    "assests/images",
+    "assests",
     "index.md",
     "README.md",
     "docs/01_classical_computing.md",
@@ -175,15 +180,11 @@
     "404.html",
     "about.markdown",
     "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
-    "_posts",
-    "_config.yml",
-    "docs/Untitled",
     "docs/02_quantum_mechanics.md",
     "docs/02_quantum_mechanics 1.md",
     "docs/19_near_term_algorithms.md",
     "docs/18_quantum_error_correction.md",
     "docs/17_deep_dive_into_qubits.md",
-    "docs/16_grovers_algorithm.md",
     "docs/images/Screenshot_20240227_201208.png",
     "docs/images/Screenshot_20240227_145226.png",
     "docs/images/Screenshot_20240227_003202.png",
@@ -192,7 +193,6 @@
     "docs/images/Screenshot_20240226_205641.png",
     "docs/images/Screenshot_20240226_205641 1.png",
     "docs/images/Screenshot_20240226_190543.png",
-    "docs/images/Screenshot_20240226_190450.png",
-    "docs/images/Screenshot_20240226_173152.png"
+    "docs/images/Screenshot_20240226_190450.png"
   ]
 }

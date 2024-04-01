@@ -1,1 +1,2 @@
 # learnQC
+Learn Quantum Computi

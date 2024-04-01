@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01_classical_computing.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/01_classical_computing.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/01_classical_computing.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/01_classical_computing.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -173,6 +173,9 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "docs/01_classical_computing.md",
+    "docs/index.md",
+    "docs/Untitled",
     "Gemfile.lock",
     "Gemfile",
     "_posts/2024-04-01-welcome-to-jekyll.markdown",
@@ -182,11 +185,9 @@
     "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
     "_posts",
     "_config.yml",
-    "_config",
     "README.md",
     "docs/02_quantum_mechanics.md",
     "docs/02_quantum_mechanics 1.md",
-    "docs/01_classical_computing.md",
     "docs/19_near_term_algorithms.md",
     "docs/18_quantum_error_correction.md",
     "docs/17_deep_dive_into_qubits.md",
@@ -211,8 +212,6 @@
     "docs/images/Screenshot_20240226_190543.png",
     "docs/images/Screenshot_20240226_190450.png",
     "docs/images/Screenshot_20240226_173152.png",
-    "docs/images",
-    "docs/Untitled.md",
     "docs/about.md",
     "conflict-files-obsidian-git.md",
     "QxQ Lecture Notes/SEM 2/L19 - Near Term Algorithms (NISQ).md",

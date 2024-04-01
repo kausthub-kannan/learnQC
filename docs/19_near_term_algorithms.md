@@ -1,3 +1,4 @@
+# Near Term Algorithms (NISQ)
 ## Types of Algorithms:
 1. **Long Term Algorithms:**
    - Long Term Algorithms are more powerful and assume perfect fault tolerant hardware.

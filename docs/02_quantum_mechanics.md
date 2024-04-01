@@ -1,3 +1,4 @@
+# Quantum Mechanics
 ## Drawbacks of Classical Physics
 1. Couldn't explain why atom are stable even though electron revolved which by definition should have collapsed with nucleus.
 2. Classical Physics defines either objects are particles or have wave properties. These principals couldn't be applied to scale level of electrons.
@@ -26,8 +27,7 @@ Wave-Particle Duality is the key concept of Quantum Mechanics.Electrons and ligh
 
 #### Interference
 1. The ability of waves and wave functions to add up or cancel each other out.
-2. The weird property of electrons when they behave as waves it to split into two waves and then interfere with itself. This changes the probability of finding electrons to be different.
-   ![[Screenshot_20231015_230155.png]] 
+2. The weird property of electrons when they behave as waves it to split into two waves and then interfere with itself. This changes the probability of finding electrons to be different. ![[Screenshot_20231015_230155.png]] 
 #### Measurement
 1. The process of forcing a superposition to pick what state the object will be in. This process irreversible and destroys the superposition.
 2. The clear importance of Measurement is that it is forced decide a state of the electron when it is in superposition, .i.e in terms of double slit experiment, when the electrons are travelling.

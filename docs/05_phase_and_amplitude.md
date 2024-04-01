@@ -1,3 +1,4 @@
+# Phase and Amplitude
 ## Modifying Double Slit experiment
 
 #### Two Double slits

@@ -1,9 +1,9 @@
+# Quantum Error Correction (QEC)
 Error correction plays a vital role in Quantum Computing especially for longer algorithms. Noise is accompanied which causes issues with computation.
 
 **Quantum Threshold Theorem**: It states that on the NISQ(Noisy Intermediate Scale Quantum) below a particular threshold even with noise, the computation can be performed and is called as **fault tolerant** .
 
-## Quantum Error Correction (QEC)
-These are set of techniques which are used to protect quantum computers from errors, often relying on quantum properties since classical approaches do not tend to work. 
+QEC are set of techniques which are used to protect quantum computers from errors, often relying on quantum properties since classical approaches do not tend to work. 
 
 This is done using encoding the information in such a way that it is protected from some or all errors and these encoding are called error correcting codes.
 

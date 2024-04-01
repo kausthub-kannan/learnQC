@@ -1,4 +1,5 @@
-# Types of Qubits
+# Deep Dive into Qubits
+## Types of Qubits
 There are different types of Qubits which vary in:
 - Errors
 - Scalability

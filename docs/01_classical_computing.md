@@ -6,7 +6,7 @@
 3. Circuits
 4. Algorithms and Protocols
 5. Applications
-![[Screenshot_20231008_223526.png]]
+![classical-stack](images/Screenshot_20231008_223526.png)
 ### Bits
 Bits are the fundamental units of Information in a computer. 
 Transistors work on the principal of Bits. 0 being OFF and 1 being ON

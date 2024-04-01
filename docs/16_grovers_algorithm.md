@@ -1,3 +1,4 @@
+# Grover's Algorithm
 ## Limitations of Classical Algorithms
 1. CA are slow
 2. Sometimes inefficient

@@ -1,3 +1,4 @@
+# Quantum Maths for Single Qubit
 ## Inner Product and Measurement - Born's Rule
 
 For given matrices $u$ and $v$, The inner product is given as ($u^T$ is transpose of matrix $u$): $$⟨u,v⟩ = u^Tv$$

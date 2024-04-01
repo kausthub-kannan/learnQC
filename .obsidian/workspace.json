@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12b5cd3945009e86",
+  "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "_site/assests/images/learnQC.png",
+    "_site/assests/images/favicon.ico",
+    "_site/assests/images",
+    "_site/assests",
     "docs/_basics",
     "README.md",
     "assests/images/favicon.ico",
@@ -176,10 +180,6 @@
     "docs/index.md",
     "Gemfile.lock",
     "Gemfile",
-    "_posts/2024-04-01-welcome-to-jekyll.markdown",
-    "index.markdown",
-    "404.html",
-    "about.markdown",
     "docs/_basics/02_quantum_mechanics.md",
     "docs/02_quantum_mechanics 1.md",
     "docs/19_near_term_algorithms.md",

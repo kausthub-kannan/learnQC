@@ -1,3 +1,6 @@
+--- 
+title: Classical Computing
+---
 # Classical Computing
 ## Classical Computing Key Terminologies
 ### Stack

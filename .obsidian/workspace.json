@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_quantumMaths/14_multi_qubit_math.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_quantumMaths/14_multi_qubit_math.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_quantumMaths/14_multi_qubit_math.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_quantumMaths/14_multi_qubit_math.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
-    "_quantumMaths/13_quantum_maths_for_single_qubit.md",
     "_quantumMaths/14_multi_qubit_math.md",
+    "_quantumMaths/13_quantum_maths_for_single_qubit.md",
     "12_quantum_teleportation.md",
     "_basics/01_classical_computing.md",
     "_algorithms/19_near_term_algorithms.md",

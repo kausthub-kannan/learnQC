@@ -6,6 +6,7 @@
 3. Circuits
 4. Algorithms and Protocols
 5. Applications
+
 ![classical-stack](images/Screenshot_20231008_223526.png)
 ### Bits
 Bits are the fundamental units of Information in a computer. 

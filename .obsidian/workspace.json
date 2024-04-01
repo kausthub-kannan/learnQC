@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_basics/01_classical_computing.md",
+                "file": "_basics/08_multi_qubit_circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_basics/01_classical_computing.md",
+                "file": "_basics/08_multi_qubit_circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_basics/01_classical_computing.md",
+                "file": "_basics/08_multi_qubit_circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_basics/01_classical_computing.md"
+                "file": "_basics/08_multi_qubit_circuits.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "_basics/07_bases.md",
+    "_basics/05_phase_and_amplitude.md",
+    "_basics/04_quantum_stack.md",
+    "_basics/02_quantum_mechanics.md",
+    "_basics/01_classical_computing.md",
+    "_basics/08_multi_qubit_circuits.md",
     "README.md",
     "19_near_term_algorithms.md",
     "18_quantum_error_correction.md",
@@ -170,12 +176,6 @@
     "images/Screenshot_20240226_190450.png",
     "images/Screenshot_20240226_173152.png",
     "images",
-    "_basics/08_multi_qubit_circuits.md",
-    "_basics/07_bases.md",
-    "_basics/05_phase_and_amplitude.md",
-    "_basics/04_quantum_stack.md",
-    "_basics/01_classical_computing.md",
-    "_basics/02_quantum_mechanics.md",
     "_basics",
     "docs/_basics/08_multi_qubit_circuits.md",
     "docs/_basics/07_bases.md",

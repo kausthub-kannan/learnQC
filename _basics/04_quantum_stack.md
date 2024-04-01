@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: 04 Quantum Stack
+---
 # Quantum Stack
 ## Limits of Classical Computer
 

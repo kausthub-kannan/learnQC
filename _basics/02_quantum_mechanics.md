@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: 02 Quantum Mechanics
+---
 # Quantum Mechanics
 ## Drawbacks of Classical Physics
 1. Couldn't explain why atom are stable even though electron revolved which by definition should have collapsed with nucleus.

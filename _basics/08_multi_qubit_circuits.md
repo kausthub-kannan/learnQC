@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: 08 Multi Qubit Circuits
+---
 # Multi Qubit Circuits
 Most algorithms use Multi Qubit Circuits
 ### CNOT Gate:

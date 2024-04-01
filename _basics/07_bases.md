@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: 07 Bases
+---
 # Bases with respect to Quantum Gates and Quantum Circuits
 
 Bases describe the state at which the current position is measured. In terms of Cartesian System it is often describe in the format of P(x,y,z). 

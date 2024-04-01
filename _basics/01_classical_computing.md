@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Classical Computing
+title: 01 Classical Computing
 ---
 # Classical Computing
 ## Classical Computing Key Terminologies

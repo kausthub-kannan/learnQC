@@ -148,6 +148,10 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "assets/images/learnQC.png",
+    "assets/images/favicon.ico",
+    "assets/images",
+    "assets",
     "README.md",
     "index.md",
     "_quantumMaths/14_multi_qubit_math.md",
@@ -188,11 +192,7 @@
     "images/Screenshot_20240226_173152.png",
     "images",
     "_basics",
-    "docs/_basics/08_multi_qubit_circuits.md",
     "docs/images",
-    "docs/_basics",
-    "docs",
-    "_docs/images",
-    "_docs/_basics"
+    "docs/_basics"
   ]
 }

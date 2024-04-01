@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/01_classical_computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/01_classical_computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/01_classical_computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/01_classical_computing.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "docs/index.md",
     "Gemfile.lock",
     "Gemfile",
     "_posts/2024-04-01-welcome-to-jekyll.markdown",
@@ -183,7 +184,6 @@
     "_posts",
     "_config.yml",
     "docs/01_classical_computing.md",
-    "docs/index.md",
     "docs/Untitled",
     "README.md",
     "docs/02_quantum_mechanics.md",

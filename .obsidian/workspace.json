@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QxQ Lecture Notes/docs/L12 - Multi Qubits and Quantum Teleportation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QxQ Lecture Notes/docs/L12 - Multi Qubits and Quantum Teleportation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QxQ Lecture Notes/docs/L12 - Multi Qubits and Quantum Teleportation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QxQ Lecture Notes/docs/L12 - Multi Qubits and Quantum Teleportation.md"
+                "file": "README.md"
               }
             }
           }
@@ -183,13 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12b5cd3945009e86",
+  "active": "fd03d4c08eb7418d",
   "lastOpenFiles": [
+    "QxQ Lecture Notes/docs/L12 - Multi Qubits and Quantum Teleportation.md",
     "QxQ Lecture Notes/docs/L1 - Classical Computing.md",
     "QxQ Lecture Notes/docs/L4 - Quantum Stack.md",
     "QxQ Lecture Notes/docs/L2 - Quantum Mechanics.md",
     "QxQ Lecture Notes/docs/L5 - Phase and Amplitude.md",
-    "index.md",
+    "README.md",
     "QxQ Lecture Notes/docs",
     "QxQ Lecture Notes/docs/L19 - NISQ.md",
     "conflict-files-obsidian-git.md",
@@ -199,7 +200,6 @@
     "QxQ Lecture Notes/docs/L15 - Complexity of Algorithms.md",
     "QxQ Lecture Notes/docs/L14 - Multi Qubit Math.md",
     "QxQ Lecture Notes/docs/L13 - Quantum Maths for Single Qubit.md",
-    "QxQ Lecture Notes/docs/L12 - Multi Qubits and Quantum Teleportation.md",
     "QxQ Lecture Notes/docs/L10 - Hacking in Quantum.md",
     "QxQ Lecture Notes/docs/L9 - Quantum Key Distribution.md",
     "QxQ Lecture Notes/docs/L8 - Multi Qubit Circuits.md",

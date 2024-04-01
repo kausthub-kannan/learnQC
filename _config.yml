@@ -21,8 +21,9 @@
 title: learnQC
 description: >- # this means to ignore newlines until "baseurl:"
   Learn Quantum Computing
-# baseurl: "" 
-# url: "" 
+domain: kausthub-kannan.github.io
+baseurl: https://kausthub-kannan.github.io/quantum-computing-notes/
+url: quantum-computing-notes
 github_username: kausthub-kannan
 
 # Build settings

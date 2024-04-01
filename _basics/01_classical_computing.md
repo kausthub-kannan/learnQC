@@ -1,4 +1,5 @@
 --- 
+layout: 
 title: Classical Computing
 ---
 # Classical Computing

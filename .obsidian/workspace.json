@@ -173,6 +173,8 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "_config.yml",
+    "_config",
     "README.md",
     "docs/02_quantum_mechanics.md",
     "docs/02_quantum_mechanics 1.md",
@@ -216,8 +218,6 @@
     "Image/Screenshot_20231105_232124.png.md",
     "Images",
     "Image",
-    "QxQ Lecture Notes/README.md",
-    "QxQ Lecture Notes/Images",
-    "QxQ Lecture Notes"
+    "QxQ Lecture Notes/Images"
   ]
 }

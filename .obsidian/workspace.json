@@ -173,6 +173,14 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "Gemfile.lock",
+    "Gemfile",
+    "_posts/2024-04-01-welcome-to-jekyll.markdown",
+    "index.markdown",
+    "404.html",
+    "about.markdown",
+    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
+    "_posts",
     "_config.yml",
     "_config",
     "README.md",
@@ -206,18 +214,10 @@
     "docs/images",
     "docs/Untitled.md",
     "docs/about.md",
-    "docs",
-    "docs",
     "conflict-files-obsidian-git.md",
     "QxQ Lecture Notes/SEM 2/L19 - Near Term Algorithms (NISQ).md",
-    "Untitled",
-    "QxQ Lecture Notes/SEM 2",
-    "QxQ Lecture Notes/SEM 1",
     "QxQ Lecture Notes/L6 - Representing Qubits.md",
     "Images/Screenshot_20231113_001424.png.md",
-    "Image/Screenshot_20231105_232124.png.md",
-    "Images",
-    "Image",
-    "QxQ Lecture Notes/Images"
+    "Image/Screenshot_20231105_232124.png.md"
   ]
 }

@@ -33,6 +33,16 @@ color_scheme: dark
 plugins:
   - jekyll-feed
 
+collections:
+  basics:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    basics:
+      name: Basics
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

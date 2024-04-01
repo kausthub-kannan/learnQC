@@ -32,7 +32,7 @@ Example: (2 + 3) using Full Adder Circuit
 ![[Screenshot_20231001_223605.png]]
 
 ### Algorithms & Protocols
-A&P are the agreed-upon steps computers used to solve problems using decision thinking
+A&P are the agreed-upon steps computers used to solve problems using decision thinking.
 
 
 

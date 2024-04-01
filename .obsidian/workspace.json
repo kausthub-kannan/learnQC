@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/01_classical_computing.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/01_classical_computing.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/01_classical_computing.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/01_classical_computing.md"
+                "file": "index.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "docs/01_classical_computing.md",
     "README.md",
     "_posts/19_near_term_algorithms.md",
     "_posts/18_quantum_error_correction.md",
@@ -165,7 +166,6 @@
     "_posts/04_quantum_stack.md",
     "_posts/02_quantum_mechanics.md",
     "_posts/01_classical_computing.md",
-    "docs/01_classical_computing.md",
     "docs/index.md",
     "Gemfile.lock",
     "Gemfile",

@@ -42,6 +42,7 @@ just_the_docs:
   collections:
     basics:
       name: Basics
+      nav_fold: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

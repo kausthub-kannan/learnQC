@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_basics/08_multi_qubit_circuits.md",
+                "file": "_quantumMaths/14_multi_qubit_math.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_basics/08_multi_qubit_circuits.md",
+                "file": "_quantumMaths/14_multi_qubit_math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_basics/08_multi_qubit_circuits.md",
+                "file": "_quantumMaths/14_multi_qubit_math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_basics/08_multi_qubit_circuits.md"
+                "file": "_quantumMaths/14_multi_qubit_math.md"
               }
             }
           }
@@ -148,21 +148,31 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
-    "_basics/07_bases.md",
-    "_basics/05_phase_and_amplitude.md",
+    "_quantumMaths/13_quantum_maths_for_single_qubit.md",
+    "_quantumMaths/14_multi_qubit_math.md",
+    "12_quantum_teleportation.md",
+    "_basics/01_classical_computing.md",
+    "_algorithms/19_near_term_algorithms.md",
+    "_algorithms/16_grovers_algorithm.md",
+    "_algorithms/15_complexity_of_algorithms.md",
+    "_algorithms/10_hacking_in_quantum.md",
+    "_algorithms/09_quantum_key_distribution.md",
+    "_basics/03_phase_and_amplitude.md",
+    "17_deep_dive_into_qubits.md",
+    "_algorithms",
+    "_quantumMaths",
+    "_Quantum Maths",
+    "_basics/06_multi_qubit_circuits.md",
+    "_basics/05_bases.md",
     "_basics/04_quantum_stack.md",
     "_basics/02_quantum_mechanics.md",
-    "_basics/01_classical_computing.md",
-    "_basics/08_multi_qubit_circuits.md",
     "README.md",
     "19_near_term_algorithms.md",
     "18_quantum_error_correction.md",
-    "17_deep_dive_into_qubits.md",
     "16_grovers_algorithm.md",
     "15_complexity_of_algorithms.md",
     "14_multi_qubit_math.md",
     "13_quantum_maths_for_single_qubit.md",
-    "12_quantum_teleportation.md",
     "10_hacking_in_quantum.md",
     "09_quantum_key_distribution.md",
     "images/Screenshot_20240227_201208.png",
@@ -179,20 +189,10 @@
     "_basics",
     "docs/_basics/08_multi_qubit_circuits.md",
     "docs/_basics/07_bases.md",
-    "docs/_basics/05_phase_and_amplitude.md",
-    "docs/_basics/04_quantum_stack.md",
-    "docs/_basics/02_quantum_mechanics.md",
-    "docs/_basics/01_classical_computing.md",
     "docs/images",
     "docs/_basics",
-    "docs/19_near_term_algorithms.md",
-    "docs/18_quantum_error_correction.md",
-    "docs/17_deep_dive_into_qubits.md",
     "docs",
     "_docs/images",
-    "_docs/_basics",
-    "_docs",
-    "_site/assests/images/favicon.ico",
-    "_site/assests/images"
+    "_docs/_basics"
   ]
 }

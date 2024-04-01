@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: NISQ
+---
 # Near Term Algorithms (NISQ)
 ## Types of Algorithms:
 1. **Long Term Algorithms:**

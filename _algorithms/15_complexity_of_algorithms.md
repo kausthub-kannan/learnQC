@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: Complexity of Algorithms
+---
 # Complexity of Algorithms
 ## Quantum Algorithms:
 

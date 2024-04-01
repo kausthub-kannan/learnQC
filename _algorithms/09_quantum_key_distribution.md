@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: BB48 Protocol
+---
 # Quantum Key Distribution
 ## Algorithms and Protocols:
 Specific step wise procedure solving a problem is termed as algorithm whereas protocols are rules that are used to allow the procedure to take place.  In terms of inter-computer communication, algorithm is the procedure to communicate and protocol allows the computer to communicate under regulations.

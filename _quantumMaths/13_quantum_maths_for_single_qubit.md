@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: Single Qubit
+---
 # Quantum Maths for Single Qubit
 ## Inner Product and Measurement - Born's Rule
 

@@ -37,12 +37,21 @@ collections:
   basics:
     permalink: "/:collection/:title"
     output: true
+  quantumMaths:
+    permalink: "/:collection/:title"
+    output: true
+  algorithms:
+    permalink: "/:collection/:title"
+    output: true
 
 just_the_docs:
   collections:
     basics:
       name: Basics
-      nav_fold: true
+    quantumMaths:
+      name: Quantum Maths
+    algorithms:
+      name: Algorithms
 
 # Exclude from processing.
 # The following items will not be processed, by default.

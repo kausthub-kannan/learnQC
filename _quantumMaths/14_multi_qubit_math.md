@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: Multi Qubit
+---
 # Multi Qubit Math
 ## Tensor Product
 Tensor state is used to combine quantum states to represent multiple systems at once. This is given below for matrix A and B:  $$ \mathbf{A} \otimes \mathbf{B} = \begin{bmatrix} A_{1,1} \mathbf{B} & \cdots & A_{1,n} \mathbf{B} \ \vdots & \ddots & \vdots \ A_{m,1} \mathbf{B} & \cdots & A_{m,n} \mathbf{B} \end{bmatrix} $$

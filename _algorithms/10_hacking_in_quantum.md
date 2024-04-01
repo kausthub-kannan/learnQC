@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: Hacking in Quantum
+---
 # Hacking in Quantum
 
 Hacking refers to gaining unauthorised data. The process can be classifies as active or passive:

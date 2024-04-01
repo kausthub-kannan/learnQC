@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35264b62aa72b2d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/16_grovers_algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43c40dcf98f97913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/17_deep_dive_into_qubits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "16d79296c9192fc6",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,6 +148,22 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "_posts/19_near_term_algorithms.md",
+    "_posts/18_quantum_error_correction.md",
+    "_posts/17_deep_dive_into_qubits.md",
+    "_posts/16_grovers_algorithm.md",
+    "_posts/15_complexity_of_algorithms.md",
+    "_posts/14_multi_qubit_math.md",
+    "_posts/13_quantum_maths_for_single_qubit.md",
+    "_posts/12_quantum_teleportation.md",
+    "_posts/10_hacking_in_quantum.md",
+    "_posts/09_quantum_key_distribution.md",
+    "_posts/08_multi_qubit_circuits.md",
+    "_posts/07_bases.md",
+    "_posts/05_phase_and_amplitude.md",
+    "_posts/04_quantum_stack.md",
+    "_posts/02_quantum_mechanics.md",
+    "_posts/01_classical_computing.md",
     "docs/01_classical_computing.md",
     "docs/index.md",
     "Gemfile.lock",
@@ -193,15 +184,6 @@
     "docs/17_deep_dive_into_qubits.md",
     "docs/16_grovers_algorithm.md",
     "docs/15_complexity_of_algorithms.md",
-    "docs/14_multi_qubit_math.md",
-    "docs/13_quantum_maths_for_single_qubit.md",
-    "docs/10_hacking_in_quantum.md",
-    "docs/12_quantum_teleportation.md",
-    "docs/08_multi_qubit_circuits.md",
-    "docs/09_quantum_key_distribution.md",
-    "docs/07_bases.md",
-    "docs/05_phase_and_amplitude.md",
-    "docs/04_quantum_stack.md",
     "docs/images/Screenshot_20240227_201208.png",
     "docs/images/Screenshot_20240227_145226.png",
     "docs/images/Screenshot_20240227_003202.png",
@@ -211,12 +193,6 @@
     "docs/images/Screenshot_20240226_205641 1.png",
     "docs/images/Screenshot_20240226_190543.png",
     "docs/images/Screenshot_20240226_190450.png",
-    "docs/images/Screenshot_20240226_173152.png",
-    "docs/about.md",
-    "conflict-files-obsidian-git.md",
-    "QxQ Lecture Notes/SEM 2/L19 - Near Term Algorithms (NISQ).md",
-    "QxQ Lecture Notes/L6 - Representing Qubits.md",
-    "Images/Screenshot_20231113_001424.png.md",
-    "Image/Screenshot_20231105_232124.png.md"
+    "docs/images/Screenshot_20240226_173152.png"
   ]
 }

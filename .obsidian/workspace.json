@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/L19 - NISQ.md",
+                "file": "docs/02_quantum_mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,8 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12b5cd3945009e86",
+  "active": "fd03d4c08eb7418d",
   "lastOpenFiles": [
+    "docs/02_quantum_mechanics.md",
+    "docs/01_classical_computing.md",
+    "docs/L19 - NISQ.md",
+    "README.md",
     "docs/images/Screenshot_20240227_201208.png",
     "docs/images/Screenshot_20240227_145226.png",
     "docs/images/Screenshot_20240227_003202.png",
@@ -195,19 +199,14 @@
     "docs/images/Screenshot_20240226_190543.png",
     "docs/images/Screenshot_20240226_190450.png",
     "docs/images/Screenshot_20240226_173152.png",
-    "docs/images/Screenshot_20240226_172103.png",
     "docs/images",
     "docs/Untitled.md",
-    "README.md",
-    "docs/classical_computing.md",
     "docs/about.md",
     "docs",
     "docs/L12 - Multi Qubits and Quantum Teleportation.md",
     "docs/L4 - Quantum Stack.md",
-    "docs/L2 - Quantum Mechanics.md",
     "docs/L5 - Phase and Amplitude.md",
     "docs",
-    "docs/L19 - NISQ.md",
     "conflict-files-obsidian-git.md",
     "docs/L17 - Deep Dive into Qubits.md",
     "QxQ Lecture Notes/SEM 2/L19 - Near Term Algorithms (NISQ).md",

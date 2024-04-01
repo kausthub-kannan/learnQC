@@ -1,9 +1,4 @@
-
----
-title: ABOUT PAGE
-filename: classical_computing.md
-
---- 
+# Classical Computing
 ## Classical Computing Key Terminologies
 ### Stack
 1. Bits

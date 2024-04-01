@@ -1,2 +1,3 @@
 # Learn Quantum Computing
-Go to [Classical Computing](docs\classical_computing)
+[Classical Computing](docs\01_classical_computing)
+[Quantum Mechanics](docs\02_quantum_mechanics)

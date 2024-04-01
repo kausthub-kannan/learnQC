@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "QxQ Lecture Notes/docs/L1-Classical Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "QxQ Lecture Notes/docs/L1-Classical Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "QxQ Lecture Notes/docs/L1-Classical Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "QxQ Lecture Notes/docs/L1-Classical Computing.md"
               }
             }
           }
@@ -185,12 +185,12 @@
   },
   "active": "fd03d4c08eb7418d",
   "lastOpenFiles": [
+    "README.md",
     "QxQ Lecture Notes/docs/L12 - Multi Qubits and Quantum Teleportation.md",
-    "QxQ Lecture Notes/docs/L1 - Classical Computing.md",
+    "QxQ Lecture Notes/docs/L1-Classical Computing.md",
     "QxQ Lecture Notes/docs/L4 - Quantum Stack.md",
     "QxQ Lecture Notes/docs/L2 - Quantum Mechanics.md",
     "QxQ Lecture Notes/docs/L5 - Phase and Amplitude.md",
-    "README.md",
     "QxQ Lecture Notes/docs",
     "QxQ Lecture Notes/docs/L19 - NISQ.md",
     "conflict-files-obsidian-git.md",
@@ -204,7 +204,6 @@
     "QxQ Lecture Notes/docs/L9 - Quantum Key Distribution.md",
     "QxQ Lecture Notes/docs/L8 - Multi Qubit Circuits.md",
     "QxQ Lecture Notes/docs/L7 - Bases with respect to Quantum Gates and Quantum Circuits.md",
-    "README.md",
     "QxQ Lecture Notes/Images/Pasted image 20240303234031.png",
     "QxQ Lecture Notes/Images/Pasted image 20240303233600.png",
     "QxQ Lecture Notes/docs/L18 - Quantum Error Correction.md",

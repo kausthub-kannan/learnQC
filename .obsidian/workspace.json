@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/_basics/01_classical_computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/_basics/01_classical_computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/_basics/01_classical_computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/_basics/01_classical_computing.md"
               }
             }
           }
@@ -146,16 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16d79296c9192fc6",
+  "active": "12b5cd3945009e86",
   "lastOpenFiles": [
+    "docs/_basics",
+    "README.md",
     "assests/images/favicon.ico",
     "assests/images/learnQC.png.crdownload",
     "assests/images/learnQC.png",
     "assests/images",
     "assests",
     "index.md",
-    "README.md",
-    "docs/01_classical_computing.md",
+    "docs/_basics/01_classical_computing.md",
     "_posts/19_near_term_algorithms.md",
     "_posts/18_quantum_error_correction.md",
     "_posts/17_deep_dive_into_qubits.md",
@@ -179,8 +180,7 @@
     "index.markdown",
     "404.html",
     "about.markdown",
-    "_posts/0000-00-00-welcome-to-jekyll.markdown.erb",
-    "docs/02_quantum_mechanics.md",
+    "docs/_basics/02_quantum_mechanics.md",
     "docs/02_quantum_mechanics 1.md",
     "docs/19_near_term_algorithms.md",
     "docs/18_quantum_error_correction.md",

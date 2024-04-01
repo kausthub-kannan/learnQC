@@ -1,5 +1,5 @@
 --- 
-layout: 
+layout: post
 title: Classical Computing
 ---
 # Classical Computing

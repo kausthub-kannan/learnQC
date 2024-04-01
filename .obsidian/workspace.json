@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_basics/01_classical_computing.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_basics/01_classical_computing.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_basics/01_classical_computing.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_basics/01_classical_computing.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,7 +148,36 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
-    "_site/assests/images/learnQC.png",
+    "docs/_basics/01_classical_computing.md",
+    "_docs/images/Screenshot_20240227_201208.png",
+    "_docs/images/Screenshot_20240227_145226.png",
+    "_docs/images/Screenshot_20240227_003202.png",
+    "_docs/images/Screenshot_20240227_001614.png",
+    "_docs/images/Screenshot_20240227_000701.png",
+    "_docs/images/Screenshot_20240226_205641.png",
+    "_docs/images/Screenshot_20240226_205641 1.png",
+    "_docs/images/Screenshot_20240226_190543.png",
+    "_docs/images/Screenshot_20240226_190450.png",
+    "_docs/images/Screenshot_20240226_173152.png",
+    "_docs/_basics/08_multi_qubit_circuits.md",
+    "_docs/_basics/07_bases.md",
+    "_docs/_basics/05_phase_and_amplitude.md",
+    "_docs/_basics/04_quantum_stack.md",
+    "_docs/_basics/01_classical_computing.md",
+    "_docs/_basics/02_quantum_mechanics.md",
+    "_docs/images",
+    "_docs/_basics",
+    "_docs/19_near_term_algorithms.md",
+    "_docs/18_quantum_error_correction.md",
+    "_docs/17_deep_dive_into_qubits.md",
+    "_docs/16_grovers_algorithm.md",
+    "_docs/15_complexity_of_algorithms.md",
+    "_docs/14_multi_qubit_math.md",
+    "_docs/13_quantum_maths_for_single_qubit.md",
+    "_docs/12_quantum_teleportation.md",
+    "_docs/10_hacking_in_quantum.md",
+    "_docs/09_quantum_key_distribution.md",
+    "_docs",
     "_site/assests/images/favicon.ico",
     "_site/assests/images",
     "_site/assests",
@@ -156,43 +185,13 @@
     "README.md",
     "assests/images/favicon.ico",
     "assests/images/learnQC.png.crdownload",
-    "assests/images/learnQC.png",
     "assests/images",
-    "assests",
     "index.md",
-    "docs/_basics/01_classical_computing.md",
     "_posts/19_near_term_algorithms.md",
     "_posts/18_quantum_error_correction.md",
     "_posts/17_deep_dive_into_qubits.md",
     "_posts/16_grovers_algorithm.md",
     "_posts/15_complexity_of_algorithms.md",
-    "_posts/14_multi_qubit_math.md",
-    "_posts/13_quantum_maths_for_single_qubit.md",
-    "_posts/12_quantum_teleportation.md",
-    "_posts/10_hacking_in_quantum.md",
-    "_posts/09_quantum_key_distribution.md",
-    "_posts/08_multi_qubit_circuits.md",
-    "_posts/07_bases.md",
-    "_posts/05_phase_and_amplitude.md",
-    "_posts/04_quantum_stack.md",
-    "_posts/02_quantum_mechanics.md",
-    "_posts/01_classical_computing.md",
-    "docs/index.md",
-    "Gemfile.lock",
-    "Gemfile",
-    "docs/_basics/02_quantum_mechanics.md",
-    "docs/02_quantum_mechanics 1.md",
-    "docs/19_near_term_algorithms.md",
-    "docs/18_quantum_error_correction.md",
-    "docs/17_deep_dive_into_qubits.md",
-    "docs/images/Screenshot_20240227_201208.png",
-    "docs/images/Screenshot_20240227_145226.png",
-    "docs/images/Screenshot_20240227_003202.png",
-    "docs/images/Screenshot_20240227_001614.png",
-    "docs/images/Screenshot_20240227_000701.png",
-    "docs/images/Screenshot_20240226_205641.png",
-    "docs/images/Screenshot_20240226_205641 1.png",
-    "docs/images/Screenshot_20240226_190543.png",
-    "docs/images/Screenshot_20240226_190450.png"
+    "_posts/14_multi_qubit_math.md"
   ]
 }

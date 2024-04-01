@@ -25,7 +25,7 @@ domain: kausthub-kannan.github.io
 baseurl: https://kausthub-kannan.github.io/learnQC/
 url: learnQC
 github_username: kausthub-kannan
-favicon_ico: /assets/images/learnQC.png
+favicon_ico: "/assets/images/favicon.ico"
 
 # Build settings
 theme: just-the-docs

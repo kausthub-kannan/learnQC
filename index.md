@@ -1,2 +1,2 @@
 # learnQC
-Learn Quantum Computi
+Learn Quantum Computing

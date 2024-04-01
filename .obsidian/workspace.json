@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
-    "docs/01_classical_computing.md",
+    "index.md",
     "README.md",
+    "docs/01_classical_computing.md",
     "_posts/19_near_term_algorithms.md",
     "_posts/18_quantum_error_correction.md",
     "_posts/17_deep_dive_into_qubits.md",
@@ -183,7 +184,6 @@
     "docs/18_quantum_error_correction.md",
     "docs/17_deep_dive_into_qubits.md",
     "docs/16_grovers_algorithm.md",
-    "docs/15_complexity_of_algorithms.md",
     "docs/images/Screenshot_20240227_201208.png",
     "docs/images/Screenshot_20240227_145226.png",
     "docs/images/Screenshot_20240227_003202.png",

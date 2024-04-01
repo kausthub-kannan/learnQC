@@ -35,7 +35,7 @@ plugins:
 
 collections:
   basics:
-    permalink: "/:collection/:name/"
+    permalink: "/_basics/07_bases"
     output: true
 
 just_the_docs:

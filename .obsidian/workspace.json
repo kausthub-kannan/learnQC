@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "_algorithms/09_quantum_key_distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "_algorithms/09_quantum_key_distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "_algorithms/09_quantum_key_distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "_algorithms/09_quantum_key_distribution.md"
               }
             }
           }
@@ -148,6 +148,30 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "_site/contributing/CONTRIBUTING.html",
+    "_site/contributing",
+    "_site/quantumHardware/17_deep_dive_into_qubits.html",
+    "_site/quantumHardware",
+    "_site/concepts/12_quantum_teleportation.html",
+    "_site/concepts",
+    "_site/algorithms/19_near_term_algorithms.html",
+    "_site/algorithms/18_quantum_error_correction.html",
+    "_site/algorithms/16_grovers_algorithm.html",
+    "_site/algorithms/15_complexity_of_algorithms.html",
+    "_site/algorithms/10_hacking_in_quantum.html",
+    "_site/index.md",
+    "_site/assets/images/x_gate.png",
+    "_site/assets/images/variational_quantum_algorithm.png",
+    "_site/assets/images/tensor_product.png",
+    "_site/assets/images/swamp_test.png",
+    "_site/assets/images/superpostion_states.png",
+    "_site/assets/images/superposition_of_wavefunctions.png",
+    "_site/assets/images/superposition_gaming_example.png",
+    "_site/assets/images/quantum_vectors_math.png",
+    "_site/assets/images/quantum_stack.png",
+    "_site/assets/images/quantum_circuits.jpg",
+    "_site/README.md",
+    "about.md",
     "index.md",
     "_basics/06_multi_qubit_circuits.md",
     "_basics/05_bases.md",
@@ -166,33 +190,9 @@
     "_quantumHardware/17_deep_dive_into_qubits.md",
     "_quantumMaths/13_quantum_maths_for_single_qubit.md",
     "_quantumMaths/14_multi_qubit_math.md",
-    "_site/basics/04_quantum_stack.html",
     "_site/04_quantum_stack.md",
-    "_site/algorithms/15_complexity_of_algorithms.html",
     "_site/15_complexity_of_algorithms.md",
-    "about.md",
-    "_contributing/CONTRIBUTING",
-    "_contributing",
     "_site/17_deep_dive_into_qubits.md",
-    "17_deep_dive_into_qubits.md",
-    "_quantumHardware",
-    "_concepts",
-    "Concepts",
-    "_site/assets/images/swamp_test.png",
-    "assets/images/swamp_test.png",
-    "12_quantum_teleportation.md",
-    "_site/assets/images/alice_bob_QT.png",
-    "assets/images/alice_bob_QT.png",
-    "_site/assets/images/bob_alice_QT.png",
-    "assets/images/bob_alice_QT.png",
-    "_site/assets/images/alice_and_bob_quantum_teleportation.png",
-    "assets/images/alice_and_bob_quantum_teleportation.png",
-    "_site/assets/images/multi_qubit_entanglement_example.png",
-    "assets/images/multi_qubit_entanglement_example.png",
-    "_site/algorithms/18_quantum_error_correction.html",
-    "assets/images/quantum_circuits.jpg_4f48de821e1e503c34eca13b65492faf",
-    "assets/images/Screenshot_20231008_225711.png_8b5060c4bc45040a2b9de1476c38e3d7",
-    "_site/index.md",
-    "_site/README.md"
+    "17_deep_dive_into_qubits.md"
   ]
 }

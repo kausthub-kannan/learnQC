@@ -1,6 +1,6 @@
---- 
+---
 layout: post
-title: 05 Phase and Amplitude
+title: Phase and Amplitude
 ---
 # Phase and Amplitude
 ## Modifying Double Slit experiment

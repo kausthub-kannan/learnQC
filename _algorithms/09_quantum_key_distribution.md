@@ -1,6 +1,6 @@
---- 
+---
 layout: post
-title: BB48 Protocol
+title: BB84 Protocol
 ---
 # Quantum Key Distribution
 ## Algorithms and Protocols:

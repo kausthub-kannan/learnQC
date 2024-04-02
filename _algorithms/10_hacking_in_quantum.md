@@ -1,6 +1,6 @@
---- 
+---
 layout: post
-title: Hacking in Quantum
+title: Hacking in Qunatum
 ---
 # Hacking in Quantum
 

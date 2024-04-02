@@ -1,6 +1,6 @@
---- 
+---
 layout: post
-title: 08 Multi Qubit Circuits
+title: Multi Qubit
 ---
 # Multi Qubit Circuits
 Most algorithms use Multi Qubit Circuits

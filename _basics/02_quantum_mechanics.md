@@ -1,6 +1,6 @@
---- 
+---
 layout: post
-title: 02 Quantum Mechanics
+title: Quantum Mechanics
 ---
 # Quantum Mechanics
 ## Drawbacks of Classical Physics

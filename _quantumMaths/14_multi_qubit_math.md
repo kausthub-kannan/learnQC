@@ -1,6 +1,6 @@
---- 
+---
 layout: post
-title: Multi Qubit
+title: Multi Qubits
 ---
 # Multi Qubit Maths
 ## Tensor Product

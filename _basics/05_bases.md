@@ -1,6 +1,6 @@
---- 
+---
 layout: post
-title: 07 Bases
+title: Bases
 ---
 # Bases with respect to Quantum Gates and Quantum Circuits
 

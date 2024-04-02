@@ -1,8 +1,7 @@
---- 
-layout: post
-title: 01 Classical Computing
 ---
-
+layout: post
+title: Classical Stack
+---
 # Classical Computing
 ## Stack
 1. Bits

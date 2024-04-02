@@ -58,13 +58,11 @@ H Gate is an special gate of Quantum computing which switched any existing singl
 
 #### Quantum Circuits:
 These are sequence of Quantum Gates acting on Qubits.
-![quantum-circuit](./assets/images/quantum_circuits.jpg)
-![[Screenshot_20231008_230238.jpg]]
+![quantum-circuit](../assets/images/quantum_circuits.jpg)
 
 **Note:**
 Quantum Measurements is the only way to extract Information about and unknown Quantum State.
 
-![[Screenshot_20231008_230419.png]]
 ## Building a Quantum Computer - DiVincenzo Criteria
 1. Stays in Subset of Qubits - Well Characterised
 2. Scale able 

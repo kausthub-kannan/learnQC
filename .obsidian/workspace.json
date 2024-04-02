@@ -148,6 +148,8 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "_basics/02_quantum_mechanics.md",
+    "_basics/01_classical_computing.md",
     "assets/images/classical_full_adder_example.png",
     "assets/images/classical_full_adder.png_51f5ddad0517ebf507d594e50aaa308d",
     "assets/images/classical_full_adder.png",
@@ -165,7 +167,6 @@
     "_quantumMaths/14_multi_qubit_math.md",
     "_quantumMaths/13_quantum_maths_for_single_qubit.md",
     "12_quantum_teleportation.md",
-    "_basics/01_classical_computing.md",
     "_algorithms/19_near_term_algorithms.md",
     "_algorithms/16_grovers_algorithm.md",
     "_algorithms/15_complexity_of_algorithms.md",
@@ -179,7 +180,6 @@
     "_basics/06_multi_qubit_circuits.md",
     "_basics/05_bases.md",
     "_basics/04_quantum_stack.md",
-    "_basics/02_quantum_mechanics.md",
     "19_near_term_algorithms.md",
     "18_quantum_error_correction.md",
     "16_grovers_algorithm.md",
@@ -191,7 +191,6 @@
     "images/Screenshot_20240227_201208.png",
     "images/Screenshot_20240227_145226.png",
     "images/Screenshot_20240227_003202.png",
-    "images/Screenshot_20240227_001614.png",
     "images",
     "_basics"
   ]

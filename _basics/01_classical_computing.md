@@ -1,11 +1,10 @@
-
-| layout | title                  |
-| ------ | ---------------------- |
-| post   | 01 Classical Computing |
+--- 
+layout: post
+title: 01 Classical Computing
+---
 
 # Classical Computing
-## Classical Computing Key Terminologies
-### Stack
+## Stack
 1. Bits
 2. Gates
 3. Circuits
@@ -13,6 +12,8 @@
 5. Applications
 
 ![classical-stack](/assets/images/classical_stack.png)
+
+## Classical Computing Key Terminologies
 ### Bits
 Bits are the fundamental units of Information in a computer. 
 Transistors work on the principal of Bits. 0 being OFF and 1 being ON

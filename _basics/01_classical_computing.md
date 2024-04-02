@@ -11,7 +11,7 @@ title: 01 Classical Computing
 4. Algorithms and Protocols
 5. Applications
 
-![classical-stack](/assets/images/classical_stack.png)
+![classical-stack](assets/images/classical_stack.png)
 
 ## Classical Computing Key Terminologies
 ### Bits

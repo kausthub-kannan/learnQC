@@ -73,9 +73,8 @@ $$\frac{1}{2}[(\ket{0}\ket{state 0}\ket{state 1} + \ket{1}\ket{state 1}\ket{stat
 Finally when we measure: $$\text{probability(ancilla=0)} = \frac{1}{2}(|\bra{state0}\ket{state1}|^2+1)$$
 in terms of fidelity: $$\text{probability(ancilla=0)} = \frac{1}{2}(\text{fidelity}+1)$$
 ## Code (Noise)
-
-1. **Depolarising Noise:** 
 ```python
+# 1. Depolarizing Noise
 qubits = cirq.NamedQubit.range(2, prefix = 'q')
 circuit = cirq.Circuit()
 circuit.append(cirq.H(qubits[0]))
@@ -95,9 +94,8 @@ To the above code you would see the below results:
 ![output](../assets/images/five_percent_depolarization_output.png)
 
 For a Bell State of $\frac{1}{\sqrt{2}} (\ket{00}+\ket{11})$ only $\ket{00}$ and $\ket{11}$ is expected. 
-
-2. **Swamp Test:**  
 ```python
+# 2. Swamp Test
 q0 = cirq.NamedQubit('state 0')
 q1 = cirq.NamedQubit('state 1')
 ancilla = cirq.NamedQubit('ancollia')

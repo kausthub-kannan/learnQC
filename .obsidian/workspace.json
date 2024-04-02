@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_quantumHardware/17_deep_dive_into_qubits.md",
+                "file": "_contributing/CONTRIBUTING.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_quantumHardware/17_deep_dive_into_qubits.md",
+                "file": "_contributing/CONTRIBUTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_quantumHardware/17_deep_dive_into_qubits.md",
+                "file": "_contributing/CONTRIBUTING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_quantumHardware/17_deep_dive_into_qubits.md"
+                "file": "_contributing/CONTRIBUTING.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "_quantumMaths/13_quantum_maths_for_single_qubit.md",
+    "_contributing/CONTRIBUTING.md",
+    "_quantumHardware/17_deep_dive_into_qubits.md",
+    "_contributing/CONTRIBUTING",
+    "_contributing",
     "_concepts/12_quantum_teleportation.md",
     "_algorithms/19_near_term_algorithms.md",
-    "_quantumHardware/17_deep_dive_into_qubits.md",
-    "_quantumMaths/13_quantum_maths_for_single_qubit.md",
     "_basics/06_multi_qubit_circuits.md",
     "_quantumMaths/14_multi_qubit_math.md",
     "_site/17_deep_dive_into_qubits.md",
@@ -185,14 +188,11 @@
     "_basics/01_classical_computing.md",
     "_site/algorithms/19_near_term_algorithms.html",
     "_site/algorithms/16_grovers_algorithm.html",
-    "_site/algorithms/15_complexity_of_algorithms.html",
-    "_site/algorithms/10_hacking_in_quantum.html",
     "_site/index.md",
     "_site/README.md",
     "_site/18_quantum_error_correction.md",
     "_site/12_quantum_teleportation.md",
     "index.md",
-    "README.md",
-    "19_near_term_algorithms.md"
+    "README.md"
   ]
 }

@@ -49,6 +49,9 @@ collections:
   quantumHardware:
     permalink: "/:collection/:title"
     output: true
+  contributing:
+    permalink: "/:collection/:title"
+    output: true
 
 just_the_docs:
   collections:
@@ -62,6 +65,8 @@ just_the_docs:
       name: Algorithms
     quantumHardware:
       name: Quantum Hardware
+    contributing:
+      name: Contribution Guide
 
 # Exclude from processing.
 # The following items will not be processed, by default.

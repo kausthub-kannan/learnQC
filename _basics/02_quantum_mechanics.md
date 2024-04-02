@@ -23,15 +23,15 @@ title: 02 Quantum Mechanics
 Wave-Particle Duality is the key concept of Quantum Mechanics.Electrons and light exhibit this behaviour proved by the photo electric experiment
 
 #### Quantum Mechanics explains the stability of Atom
-![[Screenshot_20231015_224249.png]]
-
+![electron-wave-vs-particle](../assets/images/electron_wave_vs_particle.png)
 #### Superposition
 1. The ability of a quantum object to be in multiple states at the same time time
 2. Wave functions describe the electrons spread all through like a wave. It describes the probability of finding the electron in each possible state. The state at which probability of finding the electron is high and this is called amplitude. 
 
 #### Interference
 1. The ability of waves and wave functions to add up or cancel each other out.
-2. The weird property of electrons when they behave as waves it to split into two waves and then interfere with itself. This changes the probability of finding electrons to be different. ![[Screenshot_20231015_230155.png]] 
+2. The weird property of electrons when they behave as waves it to split into two waves and then interfere with itself. This changes the probability of finding electrons to be different. 
+   ![double-slit-interference](../assets/images/double_slit_interference.png)
 #### Measurement
 1. The process of forcing a superposition to pick what state the object will be in. This process irreversible and destroys the superposition.
 2. The clear importance of Measurement is that it is forced decide a state of the electron when it is in superposition, .i.e in terms of double slit experiment, when the electrons are travelling.

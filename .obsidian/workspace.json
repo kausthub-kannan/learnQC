@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_basics/01_classical_computing.md",
+                "file": "_basics/04_quantum_stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_basics/01_classical_computing.md",
+                "file": "_basics/04_quantum_stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_basics/01_classical_computing.md",
+                "file": "_basics/04_quantum_stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_basics/01_classical_computing.md"
+                "file": "_basics/04_quantum_stack.md"
               }
             }
           }
@@ -148,6 +148,21 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "_site/assets/images/quantum_circuits.jpg",
+    "assets/images/quantum_circuits.jpg",
+    "_site/assets/images/quantum_cirquits.jpg",
+    "assets/images/quantum_cirquits.jpg",
+    "_site/assets/images/h_gate.png",
+    "assets/images/h_gate.png",
+    "_site/assets/images/x_gate.png",
+    "assets/images/x_gate.png",
+    "_site/assets/images/number_of_qubits_graphs.png",
+    "assets/images/number_of_qubits_graphs.png",
+    "assets/images/Screenshot_20231008_225711.png_8b5060c4bc45040a2b9de1476c38e3d7",
+    "_site/assets/images/quantum_vectors_math.png",
+    "_basics/03_phase_and_amplitude.md",
+    "_basics/02_quantum_mechanics.md",
+    "_basics/01_classical_computing.md",
     "_site/algorithms/19_near_term_algorithms.html",
     "_site/algorithms/16_grovers_algorithm.html",
     "_site/algorithms/15_complexity_of_algorithms.html",
@@ -157,25 +172,11 @@
     "_site/quantumMaths/14_multi_qubit_math.html",
     "_site/quantumMaths/13_quantum_maths_for_single_qubit.html",
     "_site/quantumMaths",
-    "_site/basics/06_multi_qubit_circuits.html",
-    "_site/basics/05_bases.html",
     "_site/index.md",
-    "_site/assets/images/np_problems_venn_diagram.png",
     "_site/README.md",
     "_site/18_quantum_error_correction.md",
-    "_site/assets/images/learnQC.png",
-    "_site/assets/images/five_percent_depolarization_output.png",
-    "_site/assets/images/classical_stack.png",
-    "_site/assets/images/classical_not_gate.png",
-    "_site/assets/images/classical_full_adder_example.png",
-    "_site/assets/images/classical_full_adder.png",
-    "_site/assets/images/classical_and_gate.png",
-    "_site/assets/images/bqp_problems.png",
-    "_site/assets/images/big_o_notaion_graph.png",
     "_site/17_deep_dive_into_qubits.md",
     "_site/12_quantum_teleportation.md",
-    "_basics/02_quantum_mechanics.md",
-    "_basics/01_classical_computing.md",
     "index.md",
     "README.md",
     "_quantumMaths/14_multi_qubit_math.md",
@@ -186,7 +187,6 @@
     "_algorithms/15_complexity_of_algorithms.md",
     "_algorithms/10_hacking_in_quantum.md",
     "_algorithms/09_quantum_key_distribution.md",
-    "_basics/03_phase_and_amplitude.md",
     "17_deep_dive_into_qubits.md",
     "_basics/06_multi_qubit_circuits.md",
     "_basics/05_bases.md",

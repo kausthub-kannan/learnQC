@@ -20,12 +20,11 @@ Quantum Computers use phase difference to solve questions
 Quantum Computers use *phase difference* $\phi$ and the amplitude of solutions. This makes the required solution to be constructively interfered and destructively interfere with others. 
 
 ### Gaming Example:
-
 A superposition state of all possible state can be modified by interference (hence phase) to obtain desired combination or pattern.
-![gaming-example](Screenshot_20231022_223230.png)
+![superposition-gaming-example](../assets/images/superposition_gaming_example.png)
 
-### Superpostion of wavefunctions:
-![](Screenshot_20231022_224259.png)
+### Superposition of wavefunctions:
+![superposition-of-wavefunctions](../assets/images/superposition_of_wavefunctions.png)
 
 #### Note:
 1. Amplitudes can be theoretically predictable but in practice we can never know them with high certainty. Theoretical prediction can be done with the help of **Born's Rule** which is given by:$$ For\ given\ wavefunction as: \ \ket{state} = a \ket{0} \ + \ b\ket{1} \ we \ state:\ prob(0) = a^2 \ and \ prob(1) = b^2$$

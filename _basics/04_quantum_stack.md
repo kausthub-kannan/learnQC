@@ -18,24 +18,23 @@ Computers erase information and it is irreversible. This means after every step 
 Quantum Mechanics is competently reversible hence computers based on the principle of Quantum Mechanics would solve the issue of Landauer's principle.
 
 ## Stack
-![[Screenshot_20231008_224737.png]]
+![quantum-stack](../assets/images/quantum_stack.png)
 
-#### Qubits ( |0> or |1>)
+#### Qubits
 Qubits are extension of regular bits. they can be 0, 1 or superposition of 0 and 1. 
 0 (⬆️) and 1 as ( ⬇️ ). Superposition state representation is a combination of these two.
 
 ##### Notations:
-
 **Ket Notion ( $| >$ ):**
 It is used for representation. Superposition is represented with a prefix of $1/√2$
 
 **Bloch Sphere:**
-A 3D visualstic representation of Qubit which is an abstract analog of Cartesian plane 
-![[Screenshot_20231008_231520.png]]
+A 3D visualstic representation of Qubit which is an abstract analogue of Cartesian plane 
+![bloch-sphere](../assets/images/bloch_sphere.png)
 
 **Vector Representation:**
-![[Screenshot_20231008_231717.png]]
-![[Screenshot_20231008_231846.png]]
+![quantum-state-as-vectors](../assets/images/qstate_vector_representation.png)
+![quantum-vectors-math](../assets/images/quantum_vectors_math.png)
 
 ##### Note:
 **Superposition:**
@@ -43,8 +42,7 @@ It is a state which takes several characteristics from both states (1 and 0). Qu
 
 **Progresses in Qubits:**
 The number of Qubits in one device now is 433 so far
-![[Screenshot_20231008_225711.png]]
-
+![number-of-qubits-graphs](../assets/images/number_of_qubits_graphs.png)
 #### Quantum Gates:
 Quantum gates perform quantum operations on Qubits to change their state in order to perform Quantum computations. There are 7 such Gates
 1. X Gate
@@ -52,22 +50,21 @@ Quantum gates perform quantum operations on Qubits to change their state in orde
 
 **X Gate:**
 X Gates switch the state .i.e 0 to 1 or vice versa.
-![[Screenshot_20231008_230003.png]]
+![x-gate](../assets/images/x_gate.png)
 
 **H Gate:**
 H Gate is an special gate of Quantum computing which switched any existing single state to state of superposition. 
-![[Screenshot_20231008_230053.png]]
+![h-gate](../assets/images/h_gate.png)
 
 #### Quantum Circuits:
 These are sequence of Quantum Gates acting on Qubits.
+![quantum-circuit](./assets/images/quantum_circuits.jpg)
 ![[Screenshot_20231008_230238.jpg]]
 
 **Note:**
 Quantum Measurements is the only way to extract Information about and unknown Quantum State.
 
 ![[Screenshot_20231008_230419.png]]
-
-
 ## Building a Quantum Computer - DiVincenzo Criteria
 1. Stays in Subset of Qubits - Well Characterised
 2. Scale able 

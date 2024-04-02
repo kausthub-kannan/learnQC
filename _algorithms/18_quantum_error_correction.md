@@ -25,7 +25,7 @@ Types of Errors:
 4. Stuck
 
 ## Classical Repetition Codes:
-   - Repeats the information of one bit across many bits. The original bit is called as the **logical bit** represented as $\text{\={0}}$ and **physical bits** as $000$. The majority vote is seen in the physical bit and the bit type having the most is considered as true bit. 
+   - Repeats the information of one bit across many bits. The original bit is called as the **logical bit** represented as $\text{\={0}}$ and **physical bits** as $$000$$. The majority vote is seen in the physical bit and the bit type having the most is considered as true bit. 
    - To cause error, multiple bits have to be flipped.
    - More the repetition bits, more it is error tolerant.  
 

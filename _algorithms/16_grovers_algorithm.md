@@ -22,7 +22,13 @@ Data which cannot be organised to to the lack of underlying pattern in it is cal
 ## Grover's Algorithm:
 ![grovers-algorithm](../assets/images/grovers_algorithms.png)
 
-Grover's Algorithm speeds up Quantum search for unstructured data using **amplitude amplification** achieving quadratic speedup .i.e $$\text{No. of operations in Grover's Algotithm}=\sqrt{\text{No. of operations in Linear Search}}$$
+Grover's Algorithm speeds up Quantum search for unstructured data using **amplitude amplification** achieving quadratic speedup .i.e 
+
+$$
+\text{No. of operations in Grover's Algotithm}=\sqrt{\text{No. of operations in Linear Search}}
+$$
+
+
 1. All the states are bought into superposition: All states are are converted to quantum states each of equal probability to be measured .i.e equal superposition.
 2. Oracle match state step: Marks the state we want by changing the phase of that state.
 3. Diffuser's step: Amplifies marked stated done by oracle. (This step might be repeated multiple times until desired amplitude is obtained)
@@ -30,17 +36,37 @@ Grover's Algorithm speeds up Quantum search for unstructured data using **amplit
 5. Measurement
 
 **Example:**
-1. Feature of the state is represented as qubits; consider two features .i.e $q_0$ and $q_1$.
-2. All the possible states are considered:
-   $$\ket{00}+\ket{01}+\ket{10}+\ket{11}$$
-3. Every state is bought to equal probability to be measured using superposition.  $$\frac{1}{2}(\ket{00}+\ket{01}+\ket{10}+\ket{11})$$
-4. The Oracle flips the phase of desired state. Let $\ket{11}$ be the desired state. $$\frac{1}{2}(\ket{00}+\ket{01}+\ket{10}-\ket{11})$$
-5. Diffuser performs amplification of the desired state multiple times .i.e by constructively interfering with desired state.  $$\frac{1}{2\sqrt{12}}(\ket{00}+\ket{01}+\ket{10}+\sqrt{8}\ket{11})$$
-6. When measurement is done, as $\ket{11}$ has higher probability, $\ket{11}$ is obtained.
+1. Feature of the state is represented as qubits; consider two features .i.e $$q_0$$ and $$q_1$$.
+2. All the possible states are considered: 
+   
+   $$
+   \ket{00}+\ket{01}+\ket{10}+\ket{11}
+   $$
+   
+   
+3. Every state is bought to equal probability to be measured using superposition.  
+   
+   $$
+   \frac{1}{2}(\ket{00}+\ket{01}+\ket{10}+\ket{11})
+   $$
+   
+4. The Oracle flips the phase of desired state. Let $\ket{11}$ be the desired state.  
+   
+   $$
+   \frac{1}{2}(\ket{00}+\ket{01}+\ket{10}-\ket{11})
+   $$
+   
+5. Diffuser performs amplification of the desired state multiple times .i.e by constructively interfering with desired state.  
+   
+   $$
+   \frac{1}{2\sqrt{12}}(\ket{00}+\ket{01}+\ket{10}+\sqrt{8}\ket{11})
+   $$
+   
+6. When measurement is done, as $$\ket{11}$$ has higher probability, $$\ket{11}$$ is obtained.
 
 ## Inner working of Grover's Algorithm
-1. Complex items representation: if there are *n* features to be considered while searching, *n* qubits with $2^n$ possibilities are required.
-2. Number of iterations: $\sqrt{n}$
+1. Complex items representation: if there are *n* features to be considered while searching, *n* qubits with $$2^n$$ possibilities are required.
+2. Number of iterations:  $$\sqrt{n}$$
 3. Building Oracle: Depending on the problem, the oracle is built. A simple approach may be encoding the solution or criteria.
 
 **Note:**

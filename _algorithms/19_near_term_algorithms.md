@@ -11,6 +11,7 @@ title: NISQ
 2. **NISQ (Noisy Intermediate Scale Quantum):** 
    - NISQ also called as Near term algorithms along side classical computer to perform more efficiently than classical one
    - Ex: VQE Algorithm
+
 ## Types of NISQ:
 1. **Hybrid Quantum Algorithms (HQA):**
    - Hybrid algorithms use both quantum computing and classical computing to solve problems.
@@ -27,7 +28,7 @@ title: NISQ
    - To compensate for the errors in today's quantum computers , we use variational quantum circuits.
    - These tunable circuit is called as **ansatz** which is filled in the template with the choice of the tunable parameter.
    - Ex of tuning can be tuning a gate such that it is between Identity gate and X gate over iterations.
-   - These are often done using tunable gates. ![[Pasted image 20240303234031.png]]
+   - These are often done using tunable gates. ![tunable-gates](../assets/images/tunable_gates.png)
    - These are intuitive and are similar to Deep Learning backpropagation networks where loss function is used to tune the model.
 
 ## Knapsack Problem - Problems for VQA 

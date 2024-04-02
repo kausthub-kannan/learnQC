@@ -20,17 +20,17 @@ Hacking refers to gaining unauthorised data. The process can be classifies as ac
 
 ## Detecting Eave Dropping 
 
-#### Measurement Attack
+### Measurement Attack
 Quantum protocols such as BB84 are often used in the process creating a secure public key. If in the process of sending Quantum information, eave dropping is done .i.e measurement is done on the qubits.
 
 If the Qubits which are measured are sent to the receiver, the bits don't match with transmitter as the bits were measured in wrong basis in the process of eave dropping. 
 
-#### Intercept and Resend Attack
+### Intercept and Resend Attack
 If the Eave dropper decided to randomly choose the basis like Bob and perform measurement. After measuring, Eave dropper resend those bits to Bob converting them back to quantum states. Due to the probability of Quantum Physics, Eave dropper cannot always get the right basis hence unable to decrypt. 
 
 Now transmitter measures the qubits sent by Eave dropper. There would be clear difference in receiver's bits (key) and transmitter's bits even after the removal of the bits for which different basis were applied. This is due to the fact of **No-cloning theorem**. Eave dropper tried to clone his measurements and send it to the receiver. But after measurement due to probabilistic nature of Quantum Physics, the transmitter would not get the same bit even if same basis were applied.  
 
-#### Entanglement Attack
+### Entanglement Attack
 This approach is much more trickier compared to others. The Eave dropper does not measure this time rather adds a CX gate with transmitter's bits as control and his bits as target.
 
 **Z Basis:**

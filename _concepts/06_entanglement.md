@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Multi Qubit
+title: Entanglement
 ---
-# Multi Qubit Circuits
-Most algorithms use Multi Qubit Circuits
+# Entanglement
 
-**CNOT Gate:**
+## Multi Qubit Circuits
+Most algorithms use Multi Qubit Circuits
+### CNOT Gate:
 ![cnot-gate](../assets/images/cnot_gate.png)
 
 The target Qubit depends upon the state of the Control Qubit
@@ -14,6 +15,6 @@ The target Qubit depends upon the state of the Control Qubit
 2. If control is 0, no change to target
 3. If control is 1, X Gate is applied to target qubit. 
 
-#### Creating Entanglement: 
+## Creating Entanglement: 
 ![basic-entanglement-gate](../assets/images/entanglement.png)
 

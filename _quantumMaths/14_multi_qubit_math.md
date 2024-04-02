@@ -9,7 +9,7 @@ Tensor state is used to combine quantum states to represent multiple systems at 
 ## Missing States in Quantum Mechanics
 States which can be represented as tensor products are called as **Separable States** on the other hand those states which cannot be represented as separable are **Non-Separable States** which none other than the **Entangled State.** 
 
-Ex: $\frac{1}{\sqrt{2}} (\ket{00} + \ket{11})$ can be represented as tensor product
+Ex: $$\frac{1}{\sqrt{2}} (\ket{00} + \ket{11})$$ can be represented as tensor product
 	
 Few famous states are **Bell States** and **GHZ States**. Here are the Bell states:
 

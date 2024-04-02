@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_basics/01_classical_computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_basics/01_classical_computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_basics/01_classical_computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_basics/01_classical_computing.md"
               }
             }
           }
@@ -148,12 +148,20 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "assets/images/classical_full_adder_example.png",
+    "assets/images/classical_full_adder.png_51f5ddad0517ebf507d594e50aaa308d",
+    "assets/images/classical_full_adder.png",
+    "assets/images/classical_and_gate.png",
+    "assets/images/classical_or_gate.png",
+    "assets/images/classical_not_gate.png",
+    "assets/images/classical_stack.png_506753a310edce55c6a006b98ec1df72",
+    "assets/images/classical_stack.png",
+    "index.md",
     "assets/images/learnQC.png",
     "assets/images/favicon.ico",
     "assets/images",
     "assets",
     "README.md",
-    "index.md",
     "_quantumMaths/14_multi_qubit_math.md",
     "_quantumMaths/13_quantum_maths_for_single_qubit.md",
     "12_quantum_teleportation.md",
@@ -184,15 +192,7 @@
     "images/Screenshot_20240227_145226.png",
     "images/Screenshot_20240227_003202.png",
     "images/Screenshot_20240227_001614.png",
-    "images/Screenshot_20240227_000701.png",
-    "images/Screenshot_20240226_205641 1.png",
-    "images/Screenshot_20240226_190543.png",
-    "images/Screenshot_20240226_205641.png",
-    "images/Screenshot_20240226_190450.png",
-    "images/Screenshot_20240226_173152.png",
     "images",
-    "_basics",
-    "docs/images",
-    "docs/_basics"
+    "_basics"
   ]
 }

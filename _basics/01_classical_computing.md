@@ -1,7 +1,8 @@
---- 
-layout: post
-title: 01 Classical Computing
----
+
+| layout | title                  |
+| ------ | ---------------------- |
+| post   | 01 Classical Computing |
+
 # Classical Computing
 ## Classical Computing Key Terminologies
 ### Stack
@@ -11,7 +12,7 @@ title: 01 Classical Computing
 4. Algorithms and Protocols
 5. Applications
 
-![classical-stack](images/Screenshot_20231008_223526.png)
+![classical-stack](/assets/images/classical_stack.png)
 ### Bits
 Bits are the fundamental units of Information in a computer. 
 Transistors work on the principal of Bits. 0 being OFF and 1 being ON
@@ -21,19 +22,19 @@ Bits based transistors can make building a complex system easier. Transistors he
 Gate manipulate bits.
 
 NOT Gate:
-![[Screenshot_20231001_222908.png]]
+![classical-not-gate](assets/images/classical_not_gate.png)
 
 AND Gate:
-![[Screenshot_20231001_223005.png]]
+![classical_and_gate](/assets/images/classical_and_gate.png)
 
 ### Circuits
 Circuit is a sequence of Gates. It is formed using combination of multiple gates providing complex outputs compared to single Gates
 
 Full Adder Circuit of 2 Inputs is a circuit used to add two numbers
-![[Screenshot_20231001_223227.png]]
+![classical-full-adder](/assets/images/classical_full_adder.png)
 
 Example: (2 + 3) using Full Adder Circuit
-![[Screenshot_20231001_223605.png]]
+![classical-full-adder-example](/assets/images/classical_full_adder_example.png)
 
 ### Algorithms & Protocols
 A&P are the agreed-upon steps computers used to solve problems using decision thinking.

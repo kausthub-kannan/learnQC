@@ -149,8 +149,9 @@
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
     "_concepts/12_quantum_teleportation.md",
-    "_quantumMaths/13_quantum_maths_for_single_qubit.md",
+    "_algorithms/19_near_term_algorithms.md",
     "_quantumHardware/17_deep_dive_into_qubits.md",
+    "_quantumMaths/13_quantum_maths_for_single_qubit.md",
     "_basics/06_multi_qubit_circuits.md",
     "_quantumMaths/14_multi_qubit_math.md",
     "_site/17_deep_dive_into_qubits.md",
@@ -160,7 +161,6 @@
     "Concepts",
     "_site/assets/images/swamp_test.png",
     "assets/images/swamp_test.png",
-    "_algorithms/19_near_term_algorithms.md",
     "_algorithms/18_quantum_error_correction.md",
     "_algorithms/16_grovers_algorithm.md",
     "_algorithms/15_complexity_of_algorithms.md",

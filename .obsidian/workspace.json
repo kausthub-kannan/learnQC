@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_algorithms/09_quantum_key_distribution.md",
+                "file": "_algorithms/16_grovers_algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_algorithms/09_quantum_key_distribution.md",
+                "file": "_algorithms/16_grovers_algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_algorithms/09_quantum_key_distribution.md",
+                "file": "_algorithms/16_grovers_algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_algorithms/09_quantum_key_distribution.md"
+                "file": "_algorithms/16_grovers_algorithm.md"
               }
             }
           }
@@ -148,17 +148,17 @@
   },
   "active": "16d79296c9192fc6",
   "lastOpenFiles": [
+    "_includes/katex.html",
+    "_includes/Unconfirmed 125526.crdownload",
+    "_includes/head_custom.html",
     "_site/contributing/CONTRIBUTING.html",
     "_site/contributing",
     "_site/quantumHardware/17_deep_dive_into_qubits.html",
     "_site/quantumHardware",
-    "_site/concepts/12_quantum_teleportation.html",
-    "_site/concepts",
     "_site/algorithms/19_near_term_algorithms.html",
     "_site/algorithms/18_quantum_error_correction.html",
     "_site/algorithms/16_grovers_algorithm.html",
     "_site/algorithms/15_complexity_of_algorithms.html",
-    "_site/algorithms/10_hacking_in_quantum.html",
     "_site/index.md",
     "_site/assets/images/x_gate.png",
     "_site/assets/images/variational_quantum_algorithm.png",
@@ -171,6 +171,7 @@
     "_site/assets/images/quantum_stack.png",
     "_site/assets/images/quantum_circuits.jpg",
     "_site/README.md",
+    "_algorithms/09_quantum_key_distribution.md",
     "about.md",
     "index.md",
     "_basics/06_multi_qubit_circuits.md",
@@ -184,7 +185,6 @@
     "_algorithms/16_grovers_algorithm.md",
     "_algorithms/15_complexity_of_algorithms.md",
     "_algorithms/10_hacking_in_quantum.md",
-    "_algorithms/09_quantum_key_distribution.md",
     "_concepts/12_quantum_teleportation.md",
     "_contributing/CONTRIBUTING.md",
     "_quantumHardware/17_deep_dive_into_qubits.md",

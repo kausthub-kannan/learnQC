@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Grover's Algorithm
+katex: "True"
 ---
 # Grover's Algorithm
 ## Limitations of Classical Algorithms

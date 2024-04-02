@@ -15,7 +15,7 @@ title: Complexity of Algorithms
 2. Efficiency: The quickness of the algorithm to solve the problem with less resource. This is often measured using Big-O notations.
 
 ### Big O notation
-![[Pasted image 20240227142653.png]]
+![big-o-notation-graph](../assets/images/big_o_notation_graph.png)
 
 **Note:**
 While calculating Big-O we:
@@ -23,13 +23,13 @@ While calculating Big-O we:
 2. Keep the highest power alone
 
 ### P and NP problems:
-![[Pasted image 20240227143649.png]]
+![np-problems-venn-diagram](../assets/images/np_problems_venn_diagram.png)
 
 1. P-problems can be solved efficiently with polynomial Big-O.
 2. NP-problems can be checked efficiently with polynomial Big-O.
 3. NP-hard: One of the most difficult problems
 
-![[Pasted image 20240227143923.png]]
+![bqp-problems](../assets/images/bqp_problems.png)
 
 Quantum complexity theory states that some problems of NP can be solved which are called as BQP problems.
 

@@ -22,11 +22,11 @@ title: NISQ
      5. The above steps iterate
 
 2. **Variational Quantum Algorithms (VQA):**
-   ![[Pasted image 20240303233600.png]]
-   - Variational quantum algorithms use a process called *optimization* to find the best solution to the problem.
+   ![variational-quantum-algorithm](../assets/images/variational_quantum_algorithm.png)
+   - Variational quantum algorithms use a process called *optimisation* to find the best solution to the problem.
    - To compensate for the errors in today's quantum computers , we use variational quantum circuits.
    - These tunable circuit is called as **ansatz** which is filled in the template with the choice of the tunable parameter.
-   - Ex of tunning can be tuning a gate such that it is between Identity gate and X gate over iterations.
+   - Ex of tuning can be tuning a gate such that it is between Identity gate and X gate over iterations.
    - These are often done using tunable gates. ![[Pasted image 20240303234031.png]]
    - These are intuitive and are similar to Deep Learning backpropagation networks where loss function is used to tune the model.
 
@@ -34,16 +34,16 @@ title: NISQ
 VQA is useful for solving such problems and with help of the superposition property of QC, all the possibilities can be tested.
 1. *Quantum circuit setup:*  The parameters of this circuit represent whether to include or exclude each item in the knapsack. Each qubit in the circuit corresponds to an item. The state of the qubit indicates whether the item is included (1) or excluded (0).
 2. *Encoding Choices:* Adjust the parameters of the quantum circuit to encode different combinations of items in the knapsack.
-3. *Defining a Function:* Define a function that the quantum algorithm will try to maximize. In the knapsack problem, this function represents the total value of the included items.
-4. *Classical Optimization:* Use classical optimization techniques to adjust the parameters of the quantum circuit. The goal is to find the combination of items that maximizes the total value within the knapsack's weight limit.
+3. *Defining a Function:* Define a function that the quantum algorithm will try to maximise. In the knapsack problem, this function represents the total value of the included items.
+4. *Classical Optimisation:* Use classical optimisation techniques to adjust the parameters of the quantum circuit. The goal is to find the combination of items that maximises the total value within the knapsack's weight limit.
 5. *Measurement:* Run the quantum circuit and measure the output.
 
 Such problem solving approach can be used for real-world problems such as:
 1. Activating a electron which requires energy similar to the knapsack problem.
 2. Given set of Amino acids in a protein, arrangement minimal energy.
-3. Route Optimization 
+3. Route Optimisation 
 
 ## Current Stand of NISQ
 1. **Variational Quantum Eigensolver (VQE):** This algorithm tackles problems in quantum chemistry. It helps find the lowest possible energy state (ground state) of a molecule or other quantum system.
-2. **Quantum Approximate Optimization Algorithm (QAOA):** This one focuses on solving complex optimization problems. It helps find the "best" solution when dealing with many different options, like finding the most efficient route for deliveries.
-3. **Quantum Support Vector Machine (QSVM):** This algorithm applies the power of quantum computing to machine learning tasks. Specifically, it aims to improve the performance of classifying data, such as identifying spam emails or recognizing objects in images.
+2. **Quantum Approximate Optimisation Algorithm (QAOA):** This one focuses on solving complex optimisation problems. It helps find the "best" solution when dealing with many different options, like finding the most efficient route for deliveries.
+3. **Quantum Support Vector Machine (QSVM):** This algorithm applies the power of quantum computing to machine learning tasks. Specifically, it aims to improve the performance of classifying data, such as identifying spam emails or recognising objects in images.

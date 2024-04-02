@@ -19,7 +19,7 @@ Data which cannot be organised to to the lack of underlying pattern in it is cal
 3. Example: Solving a maze problem, all possible paths are bought to superposition and only the desired paths which lead to the required end of the maze is constructively interfered.  
 
 ## Grover's Algorithm:
-![[Screenshot_20240227_145226.png]]
+![grovers-algorithm](../assets/images/grovers_algorithms.png)
 
 Grover's Algorithm speeds up Quantum search for unstructured data using **amplitude amplification** achieving quadratic speedup .i.e $$\text{No. of operations in Grover's Algotithm}=\sqrt{\text{No. of operations in Linear Search}}$$
 1. All the states are bought into superposition: All states are are converted to quantum states each of equal probability to be measured .i.e equal superposition.

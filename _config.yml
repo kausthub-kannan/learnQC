@@ -40,7 +40,13 @@ collections:
   quantumMaths:
     permalink: "/:collection/:title"
     output: true
+  concepts:
+    permalink: "/:collection/:title"
+    output: true
   algorithms:
+    permalink: "/:collection/:title"
+    output: true
+  quantumHardware:
     permalink: "/:collection/:title"
     output: true
 
@@ -48,10 +54,14 @@ just_the_docs:
   collections:
     basics:
       name: Basics
+    concepts:
+      name: Concepts
     quantumMaths:
       name: Quantum Maths
     algorithms:
       name: Algorithms
+    quantumHardware:
+      name: Quantum Hardware
 
 # Exclude from processing.
 # The following items will not be processed, by default.

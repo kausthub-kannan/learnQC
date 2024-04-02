@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: QEC
+---
 # Quantum Error Correction (QEC)
 Error correction plays a vital role in Quantum Computing especially for longer algorithms. Noise is accompanied which causes issues with computation.
 

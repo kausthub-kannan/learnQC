@@ -1,3 +1,7 @@
+--- 
+layout: post
+title: Types of Qubits
+---
 # Deep Dive into Qubits
 ## Types of Qubits
 There are different types of Qubits which vary in:
@@ -58,7 +62,7 @@ The Da Vincenzo's criteria for a good QC is:
 ## Swamp test
 Fidelity measures how close two quantum states are to each other and is given by: $$\text{fidelity}=|\bra{\uppsi}\ket{\phi}|^2$$
 Swamp Test provides the fidelity. We can derive the equation from the below circuit for two bit.
-![[Screenshot_20240227_201208.png]]
+![swamp-test](../assets/images/swamp_test.png)
 
 The circuit can be mathematically shown as:
 $$\ket{0}\ket{state 0}\ket{state 1}$$
@@ -88,7 +92,7 @@ plt.show()
 ```
 
 To the above code you would see the below results:
-![[Pasted image 20240227192123.png]]
+![output](../assets/images/five_percent_depolarization_output.png)
 
 For a Bell State of $\frac{1}{\sqrt{2}} (\ket{00}+\ket{11})$ only $\ket{00}$ and $\ket{11}$ is expected. 
 

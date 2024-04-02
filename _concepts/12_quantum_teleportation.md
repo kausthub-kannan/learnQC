@@ -1,16 +1,19 @@
+--- 
+layout: post
+title: Quantum Teleportation
+---
 # Multi Qubits and Quantum Teleportation
 ## Multi Qubits States with Kets
 
-### Superpostion 
-![[Screenshot_20240226_171616.png]]
-
+### Superposition
+![superpostion-states](../assets/images/superpostion_states.png)
 ### Born's Rule
-![[Screenshot_20240226_171903.png]]
-
+![borns-rule.png](../assets/images/borns_rule.png)
 ## Entanglement
-![[Screenshot_20240226_172103.png]]
+![entanglement-multi-qubit](../assets/images/entanglement_qt.png)
 
-![[Screenshot_20240226_173152.png]]
+**Example:**
+![multi-qubit-entanglement-example](../assets/images/multi_qubit_entanglement_example.png)
 
 1. Consider two qubits as $q_0$ and $q_1$ each initialised at states $\ket{0}$.
 2. *H gate* is applied to $q_0$ and hence we obtain superposition state of $\ket{+}$.
@@ -35,9 +38,8 @@ in a different location.
 4. The measurement results are sent through classical channels.
 5. Bob adjusts his half of entangled state according to Alice's measurements. 
 
-**Mathematical approach to A&B QT:**
-
-![[Screenshot_20240226_190543.png]]
+**Mathematical approach to Alice and Bob Quantum Teleportation:**
+![alice-and-bob-QT](../assets/images/alice_and_bob_quantum_teleportation.png)
 
 1. Consider Alice and bob both have qubits of state $\ket{0}$ represented as $\ket{00}$ such that the qubit belongs in this way $\ket{Bob \ Alice}$ (same pattern is followed every where)
 2. Entangling both the qubits and attaching a target qubit $q_t$ we get: $\frac{1}{\sqrt{2}} (\ket{00} + \ket{11}) \ket{0}$ which is simplified as$$\frac{1}{\sqrt{2}} (\ket{000} + \ket{110})$$ of pattern $\ket{Bob \ ALice \ Target}$.
@@ -47,6 +49,5 @@ in a different location.
    This can be simplified as below considering $H_t\ket{1}$ is $\ket{-}$ and which in bases of Z is given as $\ket{0} - \ket{1}$: $$\frac{1}{\sqrt{2}}(\frac{1}{\sqrt{2}} (\ket{010} - \ket{011})) + \frac{1}{\sqrt{2}}(\frac{1}{\sqrt{2}} (\ket{100} - \ket{101}))$$
    Simplified to:$$\frac{1}{2}(\ket{010} - \ket{011} +\ket{100}-\ket{101})$$
 6. Measurement is finally done to qubits with Alice .i.e $q_alice$ and $q_t$. Possible measurements are:
-   ![[Screenshot_20240226_190450.png]]
-
+   ![alice-bob-QT](../assets/images/alice_bob_QT.png)
 7. Accordingly to get the $q_t$ back Bob applies Z or X or both gates.

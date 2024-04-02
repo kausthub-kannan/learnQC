@@ -22,9 +22,7 @@ Inner product can be done easily with bra-ket notations and can be show with fol
 | $\bra{-}\ket{1}$ | $\frac{-1}{\sqrt{2}}$ |
 
 Hence, Born's rule for bra-ket notations is give as follows: $$prob(\text{measuring state a in b}) = |\bra{a}\ket{b}|^2$$
-
 ## Gates as Matrices
-
-![[Screenshot_20240226_205641 1.png]]
+![gate-as-matrices](../assets/images/gate_as_matrices.png)
 
 The transformation go quantum states using gates is given by: $$\text{Gate * State} = \text{New State}$$

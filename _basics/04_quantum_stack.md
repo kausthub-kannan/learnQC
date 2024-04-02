@@ -47,15 +47,6 @@ The number of Qubits in one device now is 433 so far
 Quantum gates perform quantum operations on Qubits to change their state in order to perform Quantum computations. There are 7 such Gates
 1. X Gate
 2. H Gate
-
-**X Gate:**
-X Gates switch the state .i.e 0 to 1 or vice versa.
-![x-gate](../assets/images/x_gate.png)
-
-**H Gate:**
-H Gate is an special gate of Quantum computing which switched any existing single state to state of superposition. 
-![h-gate](../assets/images/h_gate.png)
-
 #### Quantum Circuits:
 These are sequence of Quantum Gates acting on Qubits.
 ![quantum-circuit](../assets/images/quantum_circuits.jpg)

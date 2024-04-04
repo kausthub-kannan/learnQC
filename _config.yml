@@ -21,9 +21,9 @@
 title: learnQC
 description: >- # this means to ignore newlines until "baseurl:"
   Learn Quantum Computing
-domain: kausthub-kannan.github.io
-baseurl: https://kausthub-kannan.github.io/learnQC/
-url: learnQC
+# domain: kausthub-kannan.github.io
+# baseurl: https://kausthub-kannan.github.io/learnQC/
+# url: learnQC
 github_username: kausthub-kannan
 favicon_ico: "/assets/images/favicon.ico"
 math: katex
@@ -56,6 +56,9 @@ collections:
   contributing:
     permalink: "/:collection/:title"
     output: true
+  gates:
+    permalink: "/:collection/:title"
+    output: true
 
 just_the_docs:
   collections:
@@ -65,8 +68,10 @@ just_the_docs:
       name: Concepts
     quantumMaths:
       name: Quantum Maths
+    gates:
+      name: Quantum Gates
     algorithms:
-      name: Algorithms
+      name: Quantum Algorithms
     quantumHardware:
       name: Quantum Hardware
     contributing:

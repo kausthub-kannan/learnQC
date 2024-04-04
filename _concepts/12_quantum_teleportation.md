@@ -2,18 +2,15 @@
 layout: post
 title: Quantum Teleportation
 ---
-# Multi Qubits and Quantum Teleportation
-## Multi Qubits States with Kets
+# Quantum Teleportation
 
-### Superposition
-![superpostion-states](../assets/images/superpostion_states.png)
-### Born's Rule
-![borns-rule.png](../assets/images/borns_rule.png)
-## Entanglement
+## Entanglement in Multi-Qubits
 ![entanglement-multi-qubit](../assets/images/entanglement_qt.png)
 
-**Example:**
+**Example:**  
+What is the state of the qubits after applying this circuit?
 ![multi-qubit-entanglement-example](../assets/images/multi_qubit_entanglement_example.png)
+
 
 1. Consider two qubits as $$q_0$$ and $$q_1$$ each initialised at states $$\ket{0}$$.
 2. *H gate* is applied to $$q_0$$ and hence we obtain superposition state of $$\ket{+}$$.
@@ -95,6 +92,18 @@ $$
 
 
 Measurement is finally done to qubits with Alice .i.e $$q_{alice}$$ and $$q_t$$. Possible measurements are:
-   ![alice-bob-QT](../assets/images/alice_bob_QT.png)
 
-	Accordingly to get the $$q_t$$ back Bob applies Z or X or both gates.
+$$
+\begin{aligned}
+&\begin{array}{cccc}
+\hline \hline \text { Alice's Measurement } & \text { Bob's State }\\
+\hline 00 & \ket{1} \\
+01 & -\ket{1}\\
+10 & \ket{0} \\
+11 & -\ket{0} \\
+\hline
+\end{array}
+\end{aligned}
+$$
+
+Accordingly to get the $$q_t$$ back Bob applies Z or X or both gates.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic Gates
+title: Reversibility
 permalink: /reversibility/
 ---
 # Reversibility of Gates

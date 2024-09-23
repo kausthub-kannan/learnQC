@@ -1,3 +1,9 @@
+---
+layout: post
+title: Contributing to the Project
+permalink: /CONTRIBUTING/
+---
+
 # CONTRIBUTING
 Thanks for contributing to learnQC and to expand the niche community of Quantum Computing (QC). Please follow the below instaructions to setup jenkyll to locally run the website and follow the guidelines for uniformity 😁🫡
 

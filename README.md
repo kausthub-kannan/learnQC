@@ -18,3 +18,6 @@ Whether you're a seasoned programmer or a curious beginner, learnQC provides a s
 Get ready to unlock the potential of quantum computing with learnQC as your guide! Dive into the captivating world of qubits, gates, and circuits, and witness the dawn of a new era in computation.
 
 **Let's begin your quantum adventure!**
+
+**Note:**
+If you want to contribute to the project, please read the [CONTRIBUTING](https://kausthub-kannan.github.io/learnQC/contributing/CONTRIBUTING) guidelines

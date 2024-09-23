@@ -38,10 +38,12 @@ bundle exec jekyll serve
 - When creating a new webpage, add it to appropriate folder (ex: all algorithms should be added to _algorithms folder)
 - For every new webpage add the below at the begining of the page:
 
+```
 ---
 layout: post
 title: Name to appear at the side bar
 permalink: /path_on_the_bar/ **Note:** Use % to add spaces
 ---
+```
 
 - If a new subsection needs to be created, create a folder with the name of subsection with '_' in the start of the name and add the folder with title in _config.yml
